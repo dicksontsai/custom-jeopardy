@@ -18,20 +18,20 @@
         },
         {
           "value": 600,
+          "text": "Hongik University, Itaewon",
+          "answer": "Seoul",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
           "text": "Asakusa, Meguro, Shinjuku",
           "answer": "Tokyo",
           "isDailyDouble": false
         },
         {
-          "value": 800,
+          "value": 1000,
           "text": "Marina Bay, Orchard, Dhoby Ghaut",
           "answer": "Singapore",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1000,
-          "text": "Sol, Gran Vía, Atocha",
-          "answer": "Madrid",
           "isDailyDouble": false
         }
       ]
@@ -53,10 +53,10 @@
           "isDailyDouble": false
         },
         {
-          "value": 600,
-          "text": "This dish of chicken and a creamy tomato sauce may have come from the UK",
+          "value": 0,
+          "text": "This dish of chicken and a creamy tomato sauce may have actually come from the UK",
           "answer": "chicken tikka masala",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 800,
@@ -102,7 +102,7 @@
         },
         {
           "value": 1000,
-          "text": "Eli Lilly discovered fluoxetine, for treating depression, and gave this trade name",
+          "text": "Eli Lilly discovered fluoxetine, for treating depression, and gave it this trade name",
           "answer": "Prozac",
           "isDailyDouble": false
         }
@@ -156,7 +156,7 @@
         },
         {
           "value": 400,
-          "text": "Strunk calls for this last comma in series. Example: \"a, b, and c\"",
+          "text": "Strunk calls for this last comma in a series. Example: \"a, b, and c\"",
           "answer": "serial (alt: series, Oxford, Harvard)",
           "isDailyDouble": false
         },
@@ -241,10 +241,10 @@
           "isDailyDouble": false
         },
         {
-          "value": 1600,
+          "value": 0,
           "text": "Eliud Kipchoge hails from hilly Nandi County, Kenya, famous for this type of athlete",
           "answer": "runners (Host note: Kipchoge is the world record holder for marathon)",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 2000,
@@ -343,10 +343,10 @@
           "isDailyDouble": false
         },
         {
-          "value": 1200,
+          "value": 0,
           "text": "Take a pleasant walk on one of these large paved roads, such as the 3rd Street one in Santa Monica",
           "answer": "promenade",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 1600,
