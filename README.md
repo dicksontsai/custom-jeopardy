@@ -23,7 +23,6 @@ interface Category {
 }
 
 interface Clue {
-  // The monetary value of the clue. Use NaN for daily doubles.
   value: number;
   isDailyDouble: boolean;
   text: string;

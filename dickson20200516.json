@@ -1,9 +1,450 @@
 {
-  "single": [],
-  "double": [],
+  "single": [
+    {
+      "name": "CITIES BY SUBWAY STATIONS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Gare de Lyon, Concorde",
+          "answer": "Paris",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "L'Enfant Plaza, Federal Triangle",
+          "answer": "Washington, D.C.",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Hongik University, Itaewon",
+          "answer": "Seoul",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Asakusa, Meguro, Shinjuku",
+          "answer": "Tokyo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Marina Bay, Orchard, Dhoby Ghaut",
+          "answer": "Singapore",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "SOUTH ASIAN CUISINE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "The primary grain in biryani",
+          "answer": "rice",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This bread is baked in a tandoor oven, which is also used for other tandoori dishes",
+          "answer": "naan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This dish of chicken and a creamy tomato sauce may have actually come from the UK",
+          "answer": "chicken tikka masala",
+          "isDailyDouble": true
+        },
+        {
+          "value": 800,
+          "text": "\"T\"his plant, whose powder is the principal ingredient in curry, actually belongs to the ginger family",
+          "answer": "turmeric",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This bright-orange dessert is deep fried maida flour coated with sugar syrup",
+          "answer": "jalebi (some alts: zulbia, jilapi, mushabak, zalabia)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MEDICAL BRANDS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "The NFL has banned this ADHD drug, which can also enhance performance on standardized tests",
+          "answer": "Adderall",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Cialis treats this condition, which can prevent good times from happening",
+          "answer": "erectile dysfunction (ED)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Zyrtec is an example of an anti-this compound to treat allergies",
+          "answer": "histamine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The company behind remdesivir, an IV drug touted for treating COVID-19",
+          "answer": "Gilead",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Eli Lilly discovered fluoxetine, for treating depression, and gave it this trade name",
+          "answer": "Prozac",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MAKEUP",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "When clogged, these are called blackheads, since they look like small bumps on the face",
+          "answer": "pores (alt: hair follicle)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This musical term describes the scents one can sense from perfume, such as citrus in Bleu de Chanel",
+          "answer": "note",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This is designed to \"hide\" dark circles under the eyes, among other blemishes",
+          "answer": "concealer",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This gives a tan look to the face that can be easily removed. It's also a homophone for a Pokemon",
+          "answer": "bronzer (Pokemon: Bronzor)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Out of BB cream (blemish balm) came the marketing term CC cream, which stands for this",
+          "answer": "color control (alt: color correcting)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ELEMENTS OF STYLE",
+      "comment": "(Timeless grammar lessons from Strunk and White's book)",
+      "clues": [
+        {
+          "value": 200,
+          "text": "When Chattanooga News and Free Press merged, this punctuation led to the unfortunate name Chattanooga News-Free Press",
+          "answer": "hyphen",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Strunk calls for this last comma in a series. Example: \"a, b, and c\"",
+          "answer": "serial (alt: series, Oxford, Harvard)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Theses two words are nearly identical. One means impartial, the other means you couldn't care less",
+          "answer": "disinterested and uninterested",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Strunk argues that this man's quote \"These are the times that try men's souls\" has been durable due to its style",
+          "answer": "Thomas Paine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Avoid this construction unless you want, for example, \"to strongly emphasize\" strongly",
+          "answer": "split infinitive",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "2019 US NEWS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Trump was impeached, then acquitted, for withholding military aid to this country",
+          "answer": "Ukraine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This \"Empire\" actor alleged a hate crime, which Chicago police declared to be a hoax",
+          "answer": "Justin Smollett",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This billionare sex offender's death was officially ruled a suicide",
+          "answer": "Jeffrey Epstein",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This US border town was the scene of a tragic mass shooting at a Walmart",
+          "answer": "El Paso",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The acronym of the \"Augmentation System\" that caused the Boeing 737 MAX to become grounded",
+          "answer": "MCAS",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "VILLAGE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Deserts can only support villages like Awjilah in this type of area with freshwater",
+          "answer": "oasis",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Agriculture at this South American World Heritage site was done using hundreds of terraces",
+          "answer": "Machu Picchu",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "China built an entire replica of Hallstatt, a village near Salzberg in this country",
+          "answer": "Austria",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Eliud Kipchoge hails from hilly Nandi County, Kenya, famous for this type of athlete",
+          "answer": "runners (Host note: Kipchoge is the world record holder for marathon)",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "Disneyland's Cinderella Castle is based on the one in this Spanish city, which also has a well-preserved Roman aqueduct",
+          "answer": "Segovia",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CELLAR",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This California wine-making county attracts 5 million visitors a year",
+          "answer": "Napa",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This fermented tea's name comes from Japanese for kelp",
+          "answer": "kombucha",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This type of beer come in many colors, like pale, amber, and dark, based on the grain that is used",
+          "answer": "lager",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "These green-skinned grapes used in white wine are a cross between Pinot Noir and Gouais blanc grapes",
+          "answer": "Chardonnay",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Jee\"z\", the US and EU disagree on whether this wine grape is synonymous to \"primitivo\"",
+          "answer": "Zinfandel",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "GOLD",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This gymnast won gold at the women's team and individual all around in the Rio 2016 Olympics",
+          "answer": "Simone Biles",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This 2017 Best Animated Feature Oscar winner features Miguel learning about his idol Ernesto de la Cruz",
+          "answer": "Coco",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "These movie awards are, as of 2018, handed out by an \"Ambassador\"",
+          "answer": "Golden Globes",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Famous for his award, he drove donations for the Statue of Liberty by printing the name of anyone who contributed",
+          "answer": "Joseph Pulitzer",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "Adele and David Beckham are two me\"mbe\"rs of this prestigious order",
+          "answer": "Order of the British Empire",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"PRO\"VINCE",
+      "comment": "Each response starts with \"PRO\"",
+      "clues": [
+        {
+          "value": 400,
+          "text": "A gifted youngster",
+          "answer": "prodigy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The Korean and Vietnam Wars are examples of this type of war between the US and Soviet Union",
+          "answer": "proxy war",
+          "isDailyDouble": false
+        },
+        {
+          "value": 0,
+          "text": "Take a pleasant walk on one of these large paved roads, such as the 3rd Street one in Santa Monica",
+          "answer": "promenade",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "An inclination to behave a particular way, sometimes violently",
+          "answer": "propensity",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This word to convert from one religion to another comes from Latin for \"alien resident\"",
+          "answer": "proselytize",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "WORKSHOP",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "MIDI stands for this, a communication protocal for playing, recording, and editing music",
+          "answer": "Musical Instrument Digital Interface",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This loudspeaker plays low-pitched audio, typically only 20-200 Hz",
+          "answer": "subwoofer (alt: sub)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "He still played his 2013 song \"Animals\" at EDC Las Vegas in 2019",
+          "answer": "Martin Garrix",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This \"Boneless\" artist's father founded Benihana",
+          "answer": "Steve Aoki",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This type of music producer produces songs without identifying themselves for their work",
+          "answer": "ghost producer",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "DOMINION",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This is Sauron's base, which neighbors Gondor and Anduin",
+          "answer": "Mordor",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Katniss Everdeen lives in District 12 of this nation, which has a huge wealth disparity",
+          "answer": "Panem",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Great Britain is now known as this in Orwell's 1984",
+          "answer": "Airstrip One",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "We never know what crime Josef K. was executed for in this Kafka novel",
+          "answer": "The Trial",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "In Orson Scott Card's Ender's Game, humans narrowly win the first war against these \"bugger\" aliens",
+          "answer": "Formics",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
   "final": {
-    "name": "",
+    "name": "CURRENCIES",
     "comment": "",
-    "clues": []
+    "clues": [
+      {
+        "value": 0,
+        "text": "From 1949 to 1971, the US fixed this currency's value at 360 to 1 USD",
+        "answer": "Japanese yen",
+        "isDailyDouble": false
+      }
+    ]
   }
 }
