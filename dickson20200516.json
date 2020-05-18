@@ -162,7 +162,7 @@
         },
         {
           "value": 600,
-          "text": "Theses two words are nearly identical. One means impartial, the other means you couldn't care less",
+          "text": "These two words are nearly identical. One means impartial, the other means you couldn't care less",
           "answer": "disinterested and uninterested",
           "isDailyDouble": false
         },
@@ -193,7 +193,7 @@
         {
           "value": 400,
           "text": "This \"Empire\" actor alleged a hate crime, which Chicago police declared to be a hoax",
-          "answer": "Justin Smollett",
+          "answer": "Jussie Smollett",
           "isDailyDouble": false
         },
         {
@@ -236,7 +236,7 @@
         },
         {
           "value": 1200,
-          "text": "China built an entire replica of Hallstatt, a village near Salzberg in this country",
+          "text": "China built an entire replica of Hallstatt, a village near Salzburg in this country",
           "answer": "Austria",
           "isDailyDouble": false
         },
@@ -272,8 +272,8 @@
         },
         {
           "value": 1200,
-          "text": "This type of beer come in many colors, like pale, amber, and dark, based on the grain that is used",
-          "answer": "lager",
+          "text": "This popular Irish stout beer has its characteristic dark color from roasting the barley",
+          "answer": "Guinness",
           "isDailyDouble": false
         },
         {
@@ -351,7 +351,7 @@
         {
           "value": 1600,
           "text": "An inclination to behave a particular way, sometimes violently",
-          "answer": "propensity",
+          "answer": "propensity (alt: proclivity)",
           "isDailyDouble": false
         },
         {
@@ -368,7 +368,7 @@
       "clues": [
         {
           "value": 400,
-          "text": "MIDI stands for this, a communication protocal for playing, recording, and editing music",
+          "text": "MIDI stands for this, a communication protocol for playing, recording, and editing music",
           "answer": "Musical Instrument Digital Interface",
           "isDailyDouble": false
         },
