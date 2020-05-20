@@ -343,7 +343,7 @@
           "isDailyDouble": false
         },
         {
-          "value": 0,
+          "value": 1200,
           "text": "Take a pleasant walk on one of these large paved roads, such as the 3rd Street one in Santa Monica",
           "answer": "promenade",
           "isDailyDouble": false
@@ -421,7 +421,7 @@
           "isDailyDouble": false
         },
         {
-          "value": 1200,
+          "value": 1600,
           "text": "We never know what crime Josef K. was executed for in this Kafka novel",
           "answer": "The Trial",
           "isDailyDouble": false
