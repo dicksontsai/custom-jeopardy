@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "\"X\"-WORD CLUES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "portmanteau of picture and element (5)",
+          "answer": "pixel",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "highlight of my career (4)",
+          "answer": "apex",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "the long fiber in a neuron (4)",
+          "answer": "axon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "water conductor in plants (5)",
+          "answer": "xylem",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "deter\"m\"ination (5)",
+          "answer": "moxie",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "POET-POURRI",
+      "comment": "(Name the poet from the poem.)",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Give me your tired, your poor, / Your huddled masses yearning to breathe free",
+          "answer": "Emma Lazarus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "O the bleeding drops of red / Where on the deck my Captain lies, / Fallen cold and dead",
+          "answer": "Walt Whitman",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "There is a place where the sidewalk ends / And before the street begins, / And there the grass grows soft and white",
+          "answer": "Shel Silverstein",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "(Translated:) Lift my head and see the moon / Lower my head and I miss my home",
+          "answer": "Li Bai",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The apparition of these faces in the crowd; / Petals on a wet, black bough.",
+          "answer": "Ezra Pound",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "K-DRAMAS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This character \"crash landed\" in North Korea, but luckily befriended a loyal North Korean soldier",
+          "answer": "Yoon Se-Ri (actress: Son Ye-Jin)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Korean actors may have to resort to jjok-jam, doing this uncomfortably, to squeeze in time for demanding shooting schedules",
+          "answer": "sleep",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "In this drama, Si-jin's dating is cut short by his military assignments in Uruk",
+          "answer": "Descendants of the Sun",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This show and Meteor Garden are based on the same Japanese manga",
+          "answer": "Boys Over Flowers",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Ra-im and Joo-won experience body swaps in this romantic 2010 drama",
+          "answer": "Secret Garden",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE CALM",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This hormone is secreted in dim light or darkness to promote sleep in humans",
+          "answer": "melatonin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "She teaches that relaxing is also key to learning in her popular Coursera course \"Learning How To Learn\"",
+          "answer": "Barbara Oakley",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The 1980 Olympics' \"Miracle on Ice\" took place at this calm-sounding lake",
+          "answer": "Lake Placid",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Projectile shot from an air gun to subdue an animal by injecting an anesthetic",
+          "answer": "tranquilizer dart",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "If you take this type of 10-day meditation retreat, you'll end up sitting for a \"v\"ery long time",
+          "answer": "Vipassana",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BEFORE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This empire existed from Charlemagne's coronation in 800 until Napoleon dissolved it in 1806",
+          "answer": "Holy Roman Empire",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Before 2016, this team's last World Series win was more than 100 years ago in 1908",
+          "answer": "Chicago Cubs",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Gaston Leroux told Christine Daae's story in 1911 before this Andrew Lloyd Webber's musical did",
+          "answer": "Phantom of the Opera",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Before 1979, this airline intentionally operated only within Texas to escape regulations and undercut competitors",
+          "answer": "Southwest Airlines",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1000,
+          "text": "Before Calvin Coolidge was this Teapot Dome president, who died of a heart attack in San Francisco",
+          "answer": "Warren Harding",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE STORM",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This 2005 storm destroyed New Orleans's levees, leading to around 1500 fatalities",
+          "answer": "Hurricane Katrina",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This 2017 storm managed to cause one fatality in Guyana before flooding Houston",
+          "answer": "Hurricane Harvey",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The 2019 Camp Fire in California entered this incorporated town only two hours after it started",
+          "answer": "Paradise",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The costliest tornado in US history hit this Missouri town hard in 2011",
+          "answer": "Joplin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The commentator's coffee froze in this infamous 1967 NFL championship game",
+          "answer": "The Ice Bowl",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "TRIGONOMETRY",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "A way to prove this theorem is to rearrange four congruent right triangles",
+          "answer": "Pythagorean Theorem",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The derivative of cos(x) is this function",
+          "answer": "-sin(x)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "cis(x) is a shorthand derived from this man's formula",
+          "answer": "Leonhard Euler (Euler's formula)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Subtract this from sec^2(x) to get 1",
+          "answer": "tan^2(x) (or tan(x)^2)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "The limit of sin(x)/x, as x approaches 0",
+          "answer": "1",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "DAYTIME TV",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Wake up to this hot new show from NFL Network",
+          "answer": "Good Morning Football",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The voice of Dory excites her fans in her show's 12 Days of Giveaways",
+          "answer": "Ellen Degeneres",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "He hosted \"Whose Line Is It Anyway\" before settling on \"The Price Is Right\"",
+          "answer": "Drew Carey",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This company's \"After Forever\" and \"The Bay: The Series\" competed for 2019's Outstanding Digital Daytime Drama Series Emmy",
+          "answer": "Amazon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "The full name of this popular daytime doctor, whose show Oprah Winfrey helped start in 2009",
+          "answer": "Mehmet Oz",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "EGGS AND TOMATOES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Hollandaise tops a poached egg in this staple of American brunch",
+          "answer": "eggs benedict",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This savory French tart fills a pastry crust with eggs and cheese, meat, or vegetables",
+          "answer": "quiche",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The word tomato derives from this tribe's word \"tomatl\"",
+          "answer": "Aztecs",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Hiroshima's variety of this egg pancake layers together batter, lots of cabbage, meat, and yakisoba",
+          "answer": "okonomiyaki",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "This Spanish tomato soup with raw vegetables is usually served cold to help deal with hot summers",
+          "answer": "gazpacho",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HOW EAR-RELEVANT",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "The tympanic membrane is more commonly known as this",
+          "answer": "eardrum",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The stapes, incus, and malleus, found in the ear, are the smallest forms of this organ in your body",
+          "answer": "bone",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Greek for snail, this converts sound waves into signals that can be transmitted by your nerves",
+          "answer": "cochlea",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The hearing condition where you perceive a sound even though no external sound is present",
+          "answer": "tinnitus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "At week 4, this outer layer of an embryo thickens at spots called otic placodes to become the ear",
+          "answer": "ectoderm",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TIK TOK SONGS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Lil Nas X's short \"country rap\" song that became viral. He also recorded a remix with Billy Ray Cyrus.",
+          "answer": "Old Town Road",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This 21-year-old rapper's song \"The Box\" starts with a signature \"eee err\" sound",
+          "answer": "Roddy Ricch",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Justin Bieber's first release in 2020: Yeah you got that...",
+          "answer": "Yummy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The part people dance to for this song heard here actually starts 55 seconds in",
+          "answer": "Laxed (Siren Beat) (by Jawsh 685)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "People pull pranks with the \"Don't be suspicious\" scene from this sitcom as a backdrop",
+          "answer": "Parks and Recreation (alt: Parks and Rec)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CAPITALS RHYME TIME",
+      "comment": "(Each correct response will start with a capital city.)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Enjoying these mollusks at Michelin Star La Canne en Ville in Belgium",
+          "answer": "Brussels mussels",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Marvel at this spring-like toy heading downstairs in Finland",
+          "answer": "Helsinki slinky",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Relax under one of these little huts at a Cuban beach",
+          "answer": "Havana cabana",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "A Nigerian graphic designer has been assigned to produce these icons for a small business",
+          "answer": "Lagos logos",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "An angry long speech in Serbia",
+          "answer": "Belgrade tirade",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "COLLEGE POLITICS",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "New Hampshire tried to convert this private college to a public university in 1816. The Supreme Court shot it down.",
+        "answer": "Dartmouth",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
