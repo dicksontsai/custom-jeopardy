@@ -242,13 +242,13 @@
         },
         {
           "value": 1600,
-          "text": "Subtract this to sec^2(x) to get 1",
+          "text": "Subtract this from sec^2(x) to get 1",
           "answer": "tan^2(x) (or tan(x)^2)",
           "isDailyDouble": false
         },
         {
           "value": 2000,
-          "text": "The limit of sin(x)/x as x approaches 0",
+          "text": "The limit of sin(x)/x, as x approaches 0",
           "answer": "1",
           "isDailyDouble": false
         }
@@ -314,7 +314,7 @@
         },
         {
           "value": 1600,
-          "text": "Hiroshima's variety of this egg pancake layers together batter, lots of cabbage, meet, yakisoba",
+          "text": "Hiroshima's variety of this egg pancake layers together batter, lots of cabbage, meat, and yakisoba",
           "answer": "okonomiyaki",
           "isDailyDouble": true
         },
@@ -410,7 +410,7 @@
         },
         {
           "value": 800,
-          "text": "Marvel at this spring-line toy heading downstairs in Finland",
+          "text": "Marvel at this spring-like toy heading downstairs in Finland",
           "answer": "Helsinki slinky",
           "isDailyDouble": false
         },
