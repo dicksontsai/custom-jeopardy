@@ -1,0 +1,451 @@
+{
+  "single": [
+    {
+      "name": "BACK ON THE RAILS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "At 472 stations, this city boasts the world's largest rapid transit system.",
+          "answer": "New York",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The Shanghai Transrapid is the world's fastest commercial train. It runs on this type of gravity-defying technology.",
+          "answer": "magnetic levitation (maglev)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "An articulated vehicle can do this when turning at sharp corners.",
+          "answer": "bend",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This city boasts the only shared bus and light rail subway in the US, in which hybrid buses switch to electricity after entering the portal.",
+          "answer": "Seattle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The salty ocean air poses aa risk of ice buildup on the third rail of this Boston rail line, so it switches to overhead catenary power with a retractable pantograph after trains leave the East Boston Tunnel.",
+          "answer": "the Blue Line",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE HIGH ROAD",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Common knowledge proclaims that this former US president was inspired by the German Autobahn to create the Interstate Highway System.",
+          "answer": "Eisenhower",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "A sign with a pilgrim's hat welcomes you onto this tolled Interstate in the Northeast.",
+          "answer": "Massachusetts Turnpike (or I-90 or Mass Pike)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "At barely over two miles long, this Interstate in Castro Valley, California does not fit the usual rules of numbering three-digit highways.",
+          "answer": "(Interstate) I-238",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This type of auxiliary Interstate has no termini. Colloquially, politics also happen inside it.",
+          "answer": "a beltway",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1000,
+          "text": "This US state hopes a Mile 419.99 marker on Interstate 70 will thwart roadtripping stoners.",
+          "answer": "Colorado",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE AMERICAN WEST",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Black Rock City is six miles east of Gerlach, Nevada, home of this perrenial event based on radical self-sufficiency.",
+          "answer": "Burning Man",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Valentine, Texas, about 25 miles from the US-Mexico border, is home to the world's most remote manifestation of this luxury clothing brand.",
+          "answer": "Prada",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Name the only state in the US with enclaved time zones. It's home to the Navajo & Hopi Nations.",
+          "answer": "Arizona",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Surrounded by ridges on two sides, Salt Lake City's geography causes this type of phenomenon that leaves the mountains warmer than the valley.",
+          "answer": "a (temperature) inversion",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Breaking brand guidelines, McDonalds allowed its location in this Southwestern city to recolor its Golden Arches into turquoise. It's also home to the Georgia O'Keefe Museum.",
+          "answer": "Santa Fe",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TODAY'S NYT MINI CROSSWORD",
+      "comment": "I'll give you the clue and the number of letters of the word to guess",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Sleep on it (3)",
+          "answer": "bed",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Lawn game played with nine balls (5)",
+          "answer": "bocce",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Jitterless Joe (5)",
+          "answer": "decaf",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Alternative to Google Sheets (5)",
+          "answer": "excel",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "An ecological community (5)",
+          "answer": "biome",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HISTORY OF JAPAN",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "If you lived outside the imperial palace, you would hire one of these to protect your shit from criminals.",
+          "answer": "samurai",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Knock knock. It's Europe. No, they don't want to take over, they just wanna sell some some shit. Like clocks. And guns. And Him.",
+          "answer": "Jesus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "These formerly nomadic peoples failed to invade Japan in 1274 and 1281, because they died in a tornado, twice.",
+          "answer": "the Mongols",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "After World War II, the US installed a new government with just the right ingredients for this.",
+          "answer": "a post-war economic miracle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+
+          "text": "\"Open the country. Stop having it be closed.\", said this American with boats. With guns. Gunboats.",
+          "answer": "(Commodore Matthew) Perry",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BOOKS ABOUT ROCKSTARS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "\"Oh Well, Whatever, Nevermind.\"",
+          "answer": "Kurt Cobain",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "\"The Quiet One\"",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "\"A Dream about Lightning Bugs\"",
+          "answer": "Ben Folds",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "No One Here Gets Out Alive",
+          "answer": "Jim Morrison",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "From a singer & TV talent judge: \"Does the Noise in My Head Bother You?"\"",
+          "answer": "Steven Tyler",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "RUNNING ON \"M.T.\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "A controversial Albanian nun.",
+          "answer": "Mother Teresa",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "GMT minus 7 hours. 6 in the summer.",
+          "answer": "Mountain Time",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Quit hoggin' the controller! It's ______!",
+          "answer": "my turn",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "Approximately 2,204.6 pounds.",
+          "answer": "metric tonne",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "It's Firefox's flying cousin.",
+          "answer": "Mozilla Thunderbird",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "EARN YOUR WINGS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This plane flew regular flights between CDG and JFK in about three hours at twice the speed of sound from 1976 to 2003.",
+          "answer": "Concorde",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Established in 1920, the world's second oldest airline currently operates the third longest non-stop flight——from Perth to London.",
+          "answer": "Qantas",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Callsign DYNASTY! This airline is the flag carrier of a disputed Asian island country and is the tenth largest airline by freight.",
+          "answer": "China Airlines",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "To tilt a plane in flight, you would adjust these surfaces on the wings of the aircraft, otherwise known as 'little wing' or 'fin' in French.",
+          "answer": "aileron",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "In 1983, Air Canada Flight 143 ran out of fuel mid-flight due to a unit conversion error on the ground, but it landed safely with no engine functions by Captain Bob Pearson. The 767 went on to fly for another 25 years and was affectionately named the \"G\"imli this.",
+          "answer": "Glider",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HOW MANY YEARS?",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Bicentennial",
+          "answer": "200",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Sexennial",
+          "answer": "6",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Millennial",
+          "answer": "1,000",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Tercentennial",
+          "answer": "300",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Sesquintennial",
+          "answer": "150",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "JINGLES",
+      "comment": "You're given a slogan. Name the client.",
+      "clues": [
+        {
+          "value": 400,
+          "text": "\"Me Encanta\" (2003)",
+          "answer": "McDonalds",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"The best part of waking up is _______ in your cup.\" (1984)",
+          "answer": "Folgers",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "\"It's everywhere you want to be.\" (1985)",
+          "answer": "Visa",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "\"Think small.\" (1966)",
+          "answer": "Volkswagen",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "\"Got milk?\" (1993)",
+          "answer": "California Milk Processor Board",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "THE PREFIXER UPPER",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "\"Demo-\"",
+          "answer": "the people",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"Cryo-\"",
+          "answer": "frozen",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "\"Omni-\"",
+          "answer": "all (or everything)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "\"Sino-\"",
+          "answer": "Chinese",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "\"Sym-\" or \"Syn-\"",
+          "answer": "same",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE 80s",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "On New Year's Eve 1984, the drummer of this band lost his arm in a near fatal car accident.",
+          "answer": "Def Leppard",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The best-selling computer model of all time was introduced in 1982 and went on to sell more than 17 million units by 1994.",
+          "answer": "Commodore 64",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This former GM executive was arrested in 1982 for attempting to sell cocaine to save this struggling car brand.",
+          "answer": "DMC DeLorean",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The Soviet Union, Japan, and the European Space Agency rushed to send an \"armada\" of probes to intercept this comet in 1986.",
+          "answer": "Halley's Comet",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This Prince song inspired Tipper Gore to introduce the Parental Advisory sticker after she witnessed her daughter listening to it.",
+          "answer": "\"Darling Nikki\"",
+          "isDailyDouble": false
+        }
+      ]
+    },
+  ],
+  "final": {
+    "name": "FRENCH HISTORY",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "This modern regime that lasted 4 years changed the national motto to \"Travail, Famille, Patrie\"——\"Work, Family, Fatherland\".",
+        "answer": "Vichy France (or Vichy)",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
