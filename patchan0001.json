@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "AURORA BOREALIS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Borealis is Latin for this",
+          "answer": "northern",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Aurora, whose Greek counterpart is Eos, is the Roman goddess of this",
+          "answer": "dawn",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Aurora is the name of the Disney princess from this film",
+          "answer": "Sleeping Beauty",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The Southern Hemisphere counterpart of aurora borealis is known as the southern lights, or this",
+          "answer": "aurora australis",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Auroras are caused by this space phenomenon interacting with the Earth's magnetosphere",
+          "answer": "solar wind",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AT THIS TIME OF YEAR",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "In Canada, this holiday is celebrated in October, as opposed to November in most other countries",
+          "answer": "Thanksgiving",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This George Clooney film shares its title with a notorious date in Roman history",
+          "answer": "The Ides of March",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This Jewish holiday is also known as the Day of Atonement",
+          "answer": "Yom Kippur",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Japanese holiday was previously celebrated as The Emperor's Birthday during the reign of Hirohito",
+          "answer": "Shōwa Day",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Cinco de Mayo is more widely celebrated in the U.S. than Mexico, and is often mistaken for Mexico's Independence Day, which is actually on this date",
+          "answer": "September 16",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AT THIS TIME OF DAY",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "\"From Dusk till Dawn\" is one of two films written but not directed by this American filmmaker",
+          "answer": "Quentin Tarantino",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "\"Midnight\" is the first word of this singer's 2014 song \"Style\"",
+          "answer": "Taylor Swift",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "2PM is a boy band from this country",
+          "answer": "South Korea",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"It's high noon\" is a popular quote by the character McCree from this Blizzard video game",
+          "answer": "Overwatch",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This Panic! at the Disco song title refers to an impossible time",
+          "answer": "Nine in the Afternoon",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "IN THIS PART OF THE COUNTRY",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "These bordering U.S. states are the only two in the shape of a quadrilateral",
+          "answer": "Colorado and Wyoming",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This Australian island state is its least populous",
+          "answer": "Tasmania",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Thailand is divided into 76 provinces, called changwat, including this popular tourist destination in the south, which consists entirely of islands",
+          "answer": "Phuket",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Catalonia is the only region of Spain that borders two other countries, France and this",
+          "answer": "Andorra",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This prefecture of Japan, whose capital is Sapporo, is its largest and northernmost",
+          "answer": "Hokkaido",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "LOCALIZED ENTIRELY WITHIN YOUR KITCHEN",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This 12-letter appliance has a 6-letter abbreviation that adds an extra letter \"d\"",
+          "answer": "a refrigerator",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This Hindi word is used to refer to spice mixtures used in Indian cuisine",
+          "answer": "masala",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This 1985 Disney film is named after a magical cookware",
+          "answer": "The Black Cauldron",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Korean cookware, which literally translates to \"stone pot,\" is used to cook and serve various rice dishes",
+          "answer": "a dolsot",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "A sugar bowl is featured prominently as a MacGuffin in this book series that was adapted into a 2017 Netflix series",
+          "answer": "A Series of Unfortunate Events",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "YES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Yes is an early pioneer and one of the most successful bands of this subgenre",
+          "answer": "progressive rock",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In East Asia, this symbol is used instead of a check mark to represent \"yes\"",
+          "answer": "a circle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The 1983 Yes song \"Owner of a Lonely Heart\" was included in a polka medley by this comedic musician",
+          "answer": "\"Weird Al\" Yankovic",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This 4-word phrase is commonly used when a majority has voted in favor of something",
+          "answer": "the ayes have it",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This 1972 Yes song was used as an ending theme on the anime series \"JoJo's Bizarre Adventure\"",
+          "answer": "Roundabout",
+          "isDailyDouble": true
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "MAGIC",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Released in 1993, this game is widely considered to be the first ever trading card game",
+          "answer": "Magic: The Gathering",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The B.o.B song \"Magic\" features this Weezer singer",
+          "answer": "Rivers Cuomo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Magic Johnson is the co-owner of the Los Angeles Dodgers and this WNBA team",
+          "answer": "Los Angeles Sparks",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Past winners of this competition show include magicians Mat Franco and Shin Lim",
+          "answer": "America's Got Talent",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "The reggae fusion band Magic! is best known for this 2014 No. 1 hit",
+          "answer": "Rude",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MADNESS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This 2007 film features the infamous quote, \"Madness? This is Sparta!\"",
+          "answer": "300",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"Murder, Mayhem and Madness\" is the subtitle of this 2020 Netflix true crime docuseries",
+          "answer": "Tiger King",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Among the best known works of this horror author is the novella \"At the Mountains of Madness\"",
+          "answer": "H. P. Lovecraft",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "This psychological disorder, which literally translates to \"madness by two,\" is also the name of a Fall Out Boy album",
+          "answer": "folie à deux",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This school holds the most March Madness titles, despite not having won one since 1995",
+          "answer": "UCLA",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HEAVEN",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This band's \"Stairway to Heaven\" is commonly regarded as one of the greatest rock songs of all time",
+          "answer": "Led Zeppelin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The third part of this epic poem tells the story of a journey through heaven",
+          "answer": "The Divine Comedy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Featuring vocals from Coldplay singer Chris Martin, \"Heaven\" is a posthumous release by this Swedish artist",
+          "answer": "Avicii",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This CW television series features many heavenly beings, such as the angel Castiel",
+          "answer": "Supernatural",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "7th Heaven is the name of a bar in the seventh installment of this role-playing video game series",
+          "answer": "Final Fantasy",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"SIN\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "The music video for this Beyoncé song won Video of the Year at the 2009 MTV Video Music Awards",
+          "answer": "Single Ladies (Put a Ring on It)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This FOX singing competition series is based on a similarly named South Korean one",
+          "answer": "The Masked Singer",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This adjective meaning extremely foolish is derived from the Latin word for donkey",
+          "answer": "asinine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Mark Strong portrayed this villain opposite Ryan Reynolds' Green Lantern",
+          "answer": "Sinestro",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This American author won the Pulitzer Prize in 1943 for \"Dragon's Teeth,\" but is better known for his 1096 novel \"The Jungle\"",
+          "answer": "Upton Sinclair",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BLANK SPACE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "First crewed lunar landing mission: Apollo _____",
+          "answer": "11",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Constellation which the Big Dipper is a part of: _____ Major",
+          "answer": "Ursa",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Closest star system to the Solar System: Alpha _____",
+          "answer": "Centauri",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Space probe that performed a flyby of Pluto in 2015: New _____",
+          "answer": "Horizons",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "2020 HBO series about an interplanetary cruise ship: _____ 5",
+          "answer": "Avenue",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "1989",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This pivotal event occurred on November 9, leading to the end of the Cold War",
+          "answer": "the Fall of the Berlin Wall",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The Nobel Peace Prize was awarded on October 5 to this religious leader",
+          "answer": "Dalai Lama",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This long-running animated series aired its first episode on December 17",
+          "answer": "The Simpsons",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This Dustin Hoffman and Tom Cruise film won Best Picture at the 61st Academy Awards on March 29",
+          "answer": "Rain Man",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This actress was posthumously awarded the Presidential Medal of Freedom on July 6, two months after she passed away from an aneurysm",
+          "answer": "Lucille Ball",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "PATRICK",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "The narrator of this Bret Easton Ellis novel is an investment banker named Patrick",
+        "answer": "American Psycho",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
