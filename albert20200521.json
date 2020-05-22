@@ -50,7 +50,7 @@
           "value": 400,
           "text": "At the 2018 Winter Olympics, this snowboarder became the youngest woman to win the gold medal for halfpipe",
           "answer": "Chloe Kim",
-          "isDailyDouble": true
+          "isDailyDouble": false
         },
         {
           "value": 600,
@@ -310,7 +310,7 @@
           "value": 1200,
           "text": "Mario's archnemesis Bowser, also known as the King of this species, has a penchant for kdinapping Princess Peach",
           "answer": "Koopa",
-          "isDailyDouble": true
+          "isDailyDouble": false
         },
         {
           "value": 1600,
@@ -346,7 +346,7 @@
           "value": 1200,
           "text": "Before Oganesson was discovered in 2002, this element had the highest atomic number amongst the noble gases",
           "answer": "Radon",
-          "isDailyDouble": true
+          "isDailyDouble": false
         },
         {
           "value": 1600,
