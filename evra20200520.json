@@ -194,7 +194,7 @@
         {
           "value": 400,
           "text": "\"The Quiet One\"",
-          "answer": "",
+          "answer": "Bill Wyman",
           "isDailyDouble": false
         },
         {
@@ -302,19 +302,19 @@
           "isDailyDouble": false
         },
         {
-          "value": 600,
+          "value": 800,
           "text": "Sexennial",
           "answer": "6",
           "isDailyDouble": false
         },
         {
-          "value": 800,
+          "value": 1200,
           "text": "Millennial",
           "answer": "1,000",
           "isDailyDouble": false
         },
         {
-          "value": 1000,
+          "value": 1600,
           "text": "Tercentennial",
           "answer": "300",
           "isDailyDouble": false
