@@ -78,7 +78,7 @@
       "clues": [
         {
           "value": 200,
-          "text": "\"From Dusk till Dawn\" is one of two films written but not directed by this American filmmaker",
+          "text": "\"From Dusk till Dawn\" is one of two films written—but not directed—by this American filmmaker; the other one being \"True Romance\"",
           "answer": "Quentin Tarantino",
           "isDailyDouble": false
         },
@@ -156,7 +156,7 @@
         },
         {
           "value": 400,
-          "text": "This Hindi word is used to refer to spice mixtures used in Indian cuisine",
+          "text": "This Hindi word refers to spice mixtures used in Indian cuisine",
           "answer": "masala",
           "isDailyDouble": false
         },
@@ -356,7 +356,7 @@
         },
         {
           "value": 2000,
-          "text": "This American author won the Pulitzer Prize in 1943 for \"Dragon's Teeth,\" but is better known for his 1096 novel \"The Jungle\"",
+          "text": "This American author won the Pulitzer Prize in 1943 for \"Dragon's Teeth,\" but is better known for his 1906 novel \"The Jungle\"",
           "answer": "Upton Sinclair",
           "isDailyDouble": false
         }
