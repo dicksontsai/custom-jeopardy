@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "ANIMATION",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "\"The Sorcerer's Apprentice\", in which Mickey Mouse causes magical mayhem, was one of the short films in this animated feature",
+          "answer": "Fantasia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This movie is named after the falling speed of cherry blossom petals",
+          "answer": "5 centimeters per second",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This 1996 Disney film is based on a Victor Hugo novel of the same name",
+          "answer": "The Hunchback of Notre Dame",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This 1988 Studio Ghibli film was released with 'My Neighbor Totoro' as a double feature",
+          "answer": "Grave of the Fireflies",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Dory tries her hardest to remember this address in hopes of finding Nemo",
+          "answer": "P. Sherman 42 Wallaby Way, Sydney",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "SPORTS RECORDS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This skateboarder landed the first \"900\" in 1999",
+          "answer": "Tony Hawk",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "At the 2018 Winter Olympics, this snowboarder became the youngest woman to win the gold medal for halfpipe",
+          "answer": "Chloe Kim",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "As of 2019, this tennis player has more Grand Slam titles (23) than any other player in the Open Era",
+          "answer": "Serena Williams",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In 2018, this runner became the first person complete a marathon in under 2 hours.",
+          "answer": "Eliud Kipchoge",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Along with her teammate Misty May-Treanor, this woman holds the record for longest winning streak (112 matches) in beach volleyball",
+          "answer": "Kerri Walsh (alt: Kerri Walsh Jennings)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CHRIS IN HOLLYWOOD",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "\"Beam me up, Scotty!\" This actor played James Tiberius Kirk in 2009's \"Star Trek\"!",
+          "answer": "Chris Pine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This 2005 Christopher Nolan film tells the story of two rival magicians",
+          "answer": "The Prestige",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Known for his role as Captain America, Chris Evans also portrayed this Marvel superhero",
+          "answer": "The Human Torch",
+          "isDailyDouble": true
+        },
+        {
+          "value": 800,
+          "text": "Though this actor has appeared in over 100 movies, he is perhaps best known for being the subject of celebrity impressions",
+          "answer": "Christopher Walken",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Chris Pratt portrays \"Parks and Rec\"'s Andy Dwyer, who is the lead singer in this band",
+          "answer": "Mouse Rat",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "GREEK MYTHS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This Titan was punished for stealing fire for the sake of humanity",
+          "answer": "Prometheus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The Roman god Hercules was known by this name in Greek mythology",
+          "answer": "Heracles",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "A central figure in the Trojan War, this person killed Achilles with an arrow to the heel",
+          "answer": "Paris",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This wise Greek goddess was born from Zeus's forehead",
+          "answer": "Athena",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "After being imprisoned on the island of Crete, this man crafted wax wings to escape with his son Icarus",
+          "answer": "Daedalus",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HEY SIRI, WHICH ROCK BAND IS THIS?",
+      "comment": "clues are song titles, answers are the band that released the songs",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Smells Like Teen Spirit",
+          "answer": "Nirvana",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "My Immortal",
+          "answer": "Evanescence",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "crushcrushcrush",
+          "answer": "Paramore",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Through the Fire and Flames",
+          "answer": "DragonForce",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Enter Sandman",
+          "answer": "Metallica",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TV DINNER",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "In an episode of the Simpsons, the devil tries (and fails) to punish Homer by force feeding him this dessert",
+          "answer": "donuts",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In his YouTube series, Gordon Ramsay completes this classic dish with a dollop of creme fraiche",
+          "answer": "scrambled eggs",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Light Yagami dramatically eats this snack in an infamous scene from \"Death Note\"",
+          "answer": "potato chip",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Masaharu Morimoto is one of the recurring competitors on this Food Network program",
+          "answer": "Iron Chef America (Iron Chef is acceptable)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "While unemployed, Ben Wyatt from \"Parks and Rec\" envisioned a healthy Italian fast food chain with this name",
+          "answer": "Low-cal Calzone Zone",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "BEGINNING OF THE END",
+      "comment": "Each answer starts with \"end\"",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Stormtroopers and Ewoks duke it out on this planet in a galaxy far, far away",
+          "answer": "Endor",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This hormone is secreted during exercise and produces a feeling of euphoria",
+          "answer": "endorphins",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "In economics, this term is used to describe the set of resources that is possessed by a firm or a country",
+          "answer": "endowment",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "In the \"Don't Starve\" franchise, this craftable structure keeps players cool during scorching summer days",
+          "answer": "endothermic fire",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "This British research vessel, commanded by Captain James Cook, was the first ship to reach the eastern coast of Australia",
+          "answer": "Endeavour",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "JENNIFER IN HOLLYWOOD",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This actress is known for her roles as Katniss Everdeen and Mystique",
+          "answer": "Jennifer Lawrence",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Jennifer Garner plays the titular role in this 2005 superhero movie",
+          "answer": "Elektra",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Starring opposite Russell Crowe, Jennifer Connelly portrays the wife of John Nash in this biopic",
+          "answer": "A Beautiful Mind",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Also an accomplished singer, this multi-talented actress has starred in movies such as \"Shall We Dance\" and \"Selena\"",
+          "answer": "Jennifer Lopez",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Rachel Green, portrayed by Jennifer Aniston, regularly hangs out with her friends at this New York City coffee shop",
+          "answer": "Central Perk",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "VIDEO GAMES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Due to COVID-19, UC Berkeley's 2020 graduation ceremony was held virtually in this block building game",
+          "answer": "Minecraft",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Although he is known for his peaceful protests in real life, this leader is ultra aggressive in Sid Meier's \"Civilization\"",
+          "answer": "Mahatma Gandhi (just Gandhi is ok)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Mario's archnemesis Bowser, also known as the King of this species, has a penchant for kdinapping Princess Peach",
+          "answer": "Koopa",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Throughout the Final Fantasy series, this adorable bird is used as mode of transportation",
+          "answer": "Chocobo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Known today for its video games, this company originally started out by making playing cards",
+          "answer": "Nintendo",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HIGHS AND LOWS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "At 282 feet below sea level, this is the lowest point in North America. It also has the highest recorded temperature on Earth",
+          "answer": "Death Valley",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Twice as high as Mount Everest, this volcano is the tallest mountain in the solar system",
+          "answer": "Olympus Mons (Mount Olympus is acceptable)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Before Oganesson was discovered in 2002, this element had the highest atomic number amongst the noble gases",
+          "answer": "Radon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This vocal range is considered the lowest female vocal range, between F3 and F5",
+          "answer": "contralto",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This former Google engineer holds the record for the highest human freefall at 135,890 feet in the stratosphere",
+          "answer": "Alan Eustace",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "YER A WIZARD, HARRY",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "On his eleventh birthday, Harry Potter buys a wand with this type of core from Ollivander",
+          "answer": "Phoenix feather (just \"phoenix\" is ok)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Before he received his Firebolt, Harry used to play Quidditch on this type of broom",
+          "answer": "Nimbus 2000",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Aberforth Dumbledore has a strange obsession with this animal, even possessing a Patronus with its shape",
+          "answer": "goat",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "Although he is a devoted company man, Percy Weasley is only known to his boss Barty Crouch Sr. by this name",
+          "answer": "Weatherby",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "An avid proponent of house-elf liberation, Hermione Granger is the founder of this organization, called S.P.E.W. for short",
+          "answer": "Society for the Promotion of Elfish Welfare",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "FANTASY",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Before he became Gollum, this hobbit-like creature lived a normal life in Middle Earth",
+          "answer": "Smeagol",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "After a life of adventure, Kvothe from \"The Name of the Wind\" settles down in this type of establishment",
+          "answer": "tavern",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This fictional metal grants the person who ingests it the ability to see the future in the Mistborn universe",
+          "answer": "atium",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Lucy, Edmund, and Eustace sail the eastern seas with King Caspian in this ship",
+          "answer": "Dawn Treader",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This female elf occasionally teams up with Artemis Fowl in the \"Artemis Fowl\" series",
+          "answer": "Holly Short",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "TROPICAL FRUIT",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "Known in some cultures as the \"King of Fruit\", this fruit is sometimes banned from trains and hotels",
+        "answer": "Durian",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
