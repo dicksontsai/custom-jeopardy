@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "CORPORATE SPEAK",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "(From baseball): To meet a colleague to discuss progress",
+          "answer": "touch base",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Do this to \"turn off\" a failing project",
+          "answer": "pull the plug",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Collaboration among employees with different domains of expertise",
+          "answer": "cross-functional",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Feline phrase for a futile attempt to organize uncontrollable entities",
+          "answer": "herding cats",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Holy phrase for an epiphany about the reality that you have been avoiding. For example, Boris Johnson after contracting COVID-19",
+          "answer": "come-to-Jesus moment",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AT THE HOSPITAL",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "EKG is short for this, which measures activity of the heart",
+          "answer": "electrocardiogram",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Properly dispose of used needles, etc. in bins marked with this symbol",
+          "answer": "biohazard symbol",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This clothing gets its name from surgeons having to sterilize themselves before surgery",
+          "answer": "scrubs",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Technical name for stitches used to hold body tissues together after surgery",
+          "answer": "sutures",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Doctors may order troponin tests for stroke patients to study contractions in these types of muscles",
+          "answer": "cardiac (alt: skeletal)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ELECTRIC EUROPEAN",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Anton Zaslavski is the full name of this \"Clarity\" artist",
+          "answer": "Zedd",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Youtube suggested his \"Sandstorm\" for all music queries as its 2015 April Fool's joke",
+          "answer": "Darude",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This artist of \"This Is What You Came For\" (with Rihanna) and \"Summer\" hails from Scotland",
+          "answer": "Calvin Harris",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Thanks to this 2014 hit, Kygo \"flared on\" Spotify, becoming first to 1 billion streams",
+          "answer": "Firestone",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Fall into a trance with this Dutch DJ's 2001 track \"Suburban Train\"",
+          "answer": "Tiesto",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "DATING",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Researchers in Europe use this body part of the Vole for dating. Voles have evolved different enamel patterns over time",
+          "answer": "teeth",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The Lambda-CDM (cold dark matter) model is the standard model of this event, dating back 13.8 billion years",
+          "answer": "Big Bang",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This noble gas' 39 and 40 isotopes are used for dating igneous minerals",
+          "answer": "Argon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Denarius is a Roman type of this object. Archeologists take advantage of dates and/or faces engraved on it for study",
+          "answer": "coins",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Cosmic rays interact with atmospheric nitrogen to form this radioactive isotope, which living beings absorb but dead beings do not",
+          "answer": "Carbon-14 (Host note: for radiocarbon dating)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ENGAGEMENTS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This southern city in Taiwan is home to bakeries that sell \"engagement cakes\", for the bride to distribute to her family",
+          "answer": "Tainan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The other word for engagement (noun) derives from \"truth\"",
+          "answer": "betrothal",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This southern island city ",
+          "answer": "",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY MARRIAGES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "British husband of Cayetana Hutcheson. She probably doesn't need to cook when he's free",
+          "answer": "Gordon Ramsay",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "From 2000 to 2005, this Friends star was married to Brad Pitt",
+          "answer": "Jennifer Aniston",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Mr. & Mrs. Smith established Brad Pitt's relationship with this person, his second wife. They also ended in a divorce",
+          "answer": "Angelina Jolie",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Tom Cruise had his longest marriage with this person, who also dated Jamie Foxx from 2013 to 2019",
+          "answer": "Katie Holmes",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "As of August 2019, the newest wife of Dwayne Johnson",
+          "answer": "Lauren Hashian",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "MOUNTAINOUS CAPITALS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Estadio Azteca in this capital is a formidable venue for visiting soccer teams",
+          "answer": "Mexico City",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Asia's highest capital is in this country that pioneered \"Gross National Happiness\"",
+          "answer": "Bhutan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "One of the two state capitals higher than Denver, the mile-high city. Both of those states border Colorado",
+          "answer": "Santa Fe (New Mexico) or Cheyenne (Wyoming)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "La Paz, the highest world capital, began a public transit system solely based on this means in 2014",
+          "answer": "gondola lift (alt: gondola, aerial cable car, aerial tramway)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This Chinese city's name only dates back to 2001, when officials took the name from James Hilton's Lost Horizons to promote tourism",
+          "answer": "Shangri-La",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "",
+          "answer": "",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "",
+        "answer": "",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
