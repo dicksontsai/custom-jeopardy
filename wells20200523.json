@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "DISS TRACKS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Ice Cube to NWA: his response to their royalty dispute",
+          "answer": "No Vaseline",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Nas to Jay-Z: when your diss track is so fire it becomes the verb used to describe being dissed",
+          "answer": "Ether",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Drake to Meek Mill: a reference to the Toronto Blue Jays' consecutive World Series wins",
+          "answer": "Back To Back",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Kendrick to ...everyone?: he even name drops the people who are on the same track with him",
+          "answer": "Control",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "MGK to Eminem: Hide Hailie from this antithesis to her father",
+          "answer": "Rap Devil",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "I\"C\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "CPU stands for this",
+          "answer": "Central Processing Unit",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Are you a robot? This letter-reading Turing Test might tell",
+          "answer": "CAPTCHA",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Programming language by Bjarne Stroustrup standardized in 1985, an increment over another",
+          "answer": "C++",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A component that stores data so that future requests can be served faster",
+          "answer": "cache",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Semiconductor technology used for constructing integrated circuits for very large-scale integration (VLSI) chips in the 1980s",
+          "answer": "CMOS",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS SHIPS",
+      "comment": "(I will give you the ship name, and you must tell me the series it comes from)",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Reylo (Rey and Kylo)",
+          "answer": "Star Wars",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Stucky (Steve and Bucky)",
+          "answer": "Marvel Cinematic Universe (or Captain America)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Peenis (Peeta and Katniss)",
+          "answer": "The Hunger Games",
+          "isDailyDouble": true
+        },
+        {
+          "value": 800,
+          "text": "Destiel (Dean and Castiel)",
+          "answer": "Supernatural",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Zuutara (Zuko and Katara)",
+          "answer": "Avatar",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "A THOUSAND SALES APPROACHING",
+      "comment": "(Companies with stocks over $1000 per share at the start of 2020)",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Take a trip down the AMZN River with products that you can order from their website",
+          "answer": "Amazon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "You can't find things for your boat at AZO, but maybe things for your car",
+          "answer": "AutoZone",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The marine shipping conglomerate SEB's name is a synonym for coastline",
+          "answer": "Seaboard",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Search for cruise tickets or a trip with Kayak, through its parent company, BKNG",
+          "answer": "Booking",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Need to insure your yachts? MKL will help you with that",
+          "answer": "Markel",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE PHILOSOPHER",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Allegory of the Cave",
+          "answer": "Plato",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Myth of Sisyphus",
+          "answer": "Camus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Trolley Problem",
+          "answer": "Foot",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Leap of Faith",
+          "answer": "Kierkegaard",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Veil of Ignorance",
+          "answer": "Rawls",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "PERSONALITY TEST",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "The signs are in the stars... and when you were born",
+          "answer": "horoscope",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Four letter personality types for this four letter test. I'm INFP now",
+          "answer": "MBTI (or Myers-Briggs)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "In Japan, this tells you your personality and also which antibodies you have",
+          "answer": "blood type",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A model of the human psyche described as nine interconnected personality types. I'm a type 4",
+          "answer": "Enneagram",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Gallup personality test often used in company settings. We're not looking for your weaknesses",
+          "answer": "StrengthsFinder",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "DISTRACTS",
+      "comment": "(Each answer will use the letters from DISTRACTS)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "What my Asian parents were with me",
+          "answer": "strict",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Movie turned play featuring Grizzabella. Remember her?",
+          "answer": "Cats",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Harley Quinn's origin story involved being pushed into a vat of this",
+          "answer": "acid",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Sherlock Holmes's metaphoric location for the brain",
+          "answer": "attic",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "3-time Emmy nominated series, Live from the ___ Den",
+          "answer": "artists",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MEME CULTURAL REFERENCES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Hank Hill sells these",
+          "answer": "propane and propane accessories",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This phrase uttered by Eric Andre at the DNC fence",
+          "answer": "Let me in",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "It's not a Utica expression, it's an Albany expression",
+          "answer": "steamed hams",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "For rural Americans, you might need assault weapons to protect your small kids from these",
+          "answer": "30 - 50 feral hogs",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This is not a creative color",
+          "answer": "Green",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "IT'S LIT, FAM",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Also known as the temperature at which paper ignites",
+          "answer": "Fahrenheit 451",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "If there's anything Jon Snow might know, it would be about this fantasy series",
+          "answer": "A Song of Ice and Fire",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Celeste Ng novel turned Hulu show about two families in Shaker Heights, Ohio",
+          "answer": "Little Fires Everywhere",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Suzannah Cahalan's NYT bestseller and award-winning medical mystery memoir, turned Netflix film",
+          "answer": "Brain on Fire",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Elizabeth Avecedo's Audie Award-winning follow-up to National Book Award-winning The Poet X",
+          "answer": "With the Fire on High",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "LET'S GET THIS BREAD",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Bread cooked at high temperatures which allows a large air bubble to form in its center, perfect as a pocket for a hand-held falafel sandwich",
+          "answer": "pita",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A braided religious bread typically eaten on Shabbat",
+          "answer": "challah",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "National dish of Ethiopia, which lines the trays where meats and vegetables are served",
+          "answer": "injera",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Malaysian adaptation of an Indian bread, where the dough is flipped and thrown rather than rolled",
+          "answer": "roti canai",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "National dish of El Salvador, often stuffed with ingredients such as cheese and chicharron",
+          "answer": "pupusa",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "SHOOT YOUR SHOT",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "He has the most career shots attempted in the NBA",
+          "answer": "Kareem Abdul-Jabar",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "He has the most career shots missed in the NBA",
+          "answer": "Kobe Bryant",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "He has the most three point shots made in a game in the NBA",
+          "answer": "Klay Thompson",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "With 214 games played and 3518 career points, this player has only ever made 2 successful three-point shots",
+          "answer": "Ben Simmons",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "In 2006, this 5'9\" three-time Slam Dunk Contest winner blocked a shot from the 7'5\" Yao Ming",
+          "answer": "Nate Robinson",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "THE HILL I'M WILLING TO DIE ON",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Located along Boston's Freedom Trail is the pivotal Revolutionary War battle at this hill",
+          "answer": "Bunker Hill",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This group led by Theodore Roosevelt famously charged up San Juan Hill",
+          "answer": "The Rough Riders",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The Great Sioux War of 1876 took place in these hills in South Dakota, now home to a national monument",
+          "answer": "Black Hills",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "An infamous and controversial battle in the Vietnam War took place on this hill, which later became the title of a movie",
+          "answer": "Hamburger Hill",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "\"Last Stand Hill\" was the location of Custer's demise in this battle, also nicknamed Custer's Last Stand",
+          "answer": "Battle of the Little Bighorn",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "ANIMATED FILM",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "This film directed by Hayao Miyazaki was the very first released by Studio Ghibli (1986)",
+        "answer": "Castle in the Sky",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
