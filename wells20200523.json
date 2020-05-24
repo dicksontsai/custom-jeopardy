@@ -92,7 +92,7 @@
           "value": 600,
           "text": "Peenis (Peeta and Katniss)",
           "answer": "The Hunger Games",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 800,
@@ -286,7 +286,7 @@
           "value": 2000,
           "text": "This is not a creative color",
           "answer": "Green",
-          "isDailyDouble": false
+          "isDailyDouble": true
         }
       ]
     },
@@ -352,7 +352,7 @@
           "value": 1600,
           "text": "Malaysian adaptation of an Indian bread, where the dough is flipped and thrown rather than rolled",
           "answer": "roti canai",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 2000,
