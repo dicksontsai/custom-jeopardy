@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "WARPED TOUR",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "She might not have kissed a girl during her 2008 debut at Warped Tour, but she was surely feeling \"Hot N Cold\" that summer",
+          "answer": "Katy Perry",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "If you didn't catch this \"O.G.\" at the 1999 Warped tour, you still can on Law & Order: SVU where he plays Sergeant Odafin Tutuola",
+          "answer": "Ice-T",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This lead singer for London punk rock group Gen X wasn't dancing with himself when he performed in 2005",
+          "answer": "Billy Idol",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Tied for most Warped Tour appearances, this \"Welcome to My Life\" Canadian pop-punk group also performed at the 2010 Winter Olympics closing ceremony",
+          "answer": "Simple Plan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Tied for most Warped Tour appearances, this \"The Rest of My Life\" ska-punk band includes a saxophonist, and for a short while, a trombonist",
+          "answer": "Less Than Jake",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "FASHION",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This brand holds an annual fashion show that features its products worn by Angels",
+          "answer": "Victoria's Secret",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Third-richest person in the world Bernard Arnault is the CEO of this brand, which is one of the most counterfeited in the world",
+          "answer": "Louis Vuitton (or LVMH)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Italian fashion brand known for bright and flashy prints whose logo is the head of Medusa. The Migos will tell you all about it",
+          "answer": "Versace",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This high-end French brand that started as an equestrian accessories workshop is most famous for their handbags, though they are also known in the tech world for their collaboration with Apple Watch",
+          "answer": "Hermes",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This French brand named for its founder who split from Dior in 1961 revolutionized couture and ready-to-wear fashion, and is known for their tuxedo jackets for women and leather jackets. G-Eazy approves!",
+          "answer": "(Yves) Saint Laurent",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BEFORE \"&\" AFTER",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "If The Rock sold household care products like shampoo and baby powder",
+          "answer": "Dwayne Johnson & Johnson",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The Winter Soldier opens a bookstore",
+          "answer": "Bucky Barnes & Noble",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "A reggae pioneer adopts an unruly yellow Labrador pup",
+          "answer": "Bob Marley & Me",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "If this English sea captain who circumnavigated the world gained a step-brother from his mother's remarriage",
+          "answer": "Sir Francis Drake & Josh",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Tenacious D rockstar has a line of power tools and accessories for home construction and repair",
+          "answer": "Jack Black & Decker",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "PEOPLE IN SCIENCE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Her X-ray crysallography was central to understand the structure of DNA. Watson, Crick, and Wilsons would win the Nobel without her",
+          "answer": "Rosalind Franklin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This US Navy Admiral was an prominent early programmer, now with an annual Celebration of Women in Computing named after her. She once found a literal computer bug inside the Harvard Mark II",
+          "answer": "Grace Hopper",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Her calculations of orbital mechanics at NASA were central to the successes of the first crewed US spaceflights. She would receive the Presidential Medal of Freedom in 2015, a year before being portrayed by Taraji P. Henson on the big screen",
+          "answer": "Katherine Johnson",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Her cancer cells, taken without her knowledge, were the source of the eponymous HeLa cell line, the first immortalized human cell line",
+          "answer": "Henrietta Lacks",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This Austrian-Swedish physicist led the research group which would discover nuclear fission. Otton Han would win the Nobel Prize without her",
+          "answer": "Lise Meitner",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AUTOLOGICAL WORDS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "a part of speech",
+          "answer": "noun",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "having five syllables",
+          "answer": "pentasyllabic",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "the only number that describes the number of letters it contains",
+          "answer": "four",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "a word that does not include the '-' symbol",
+          "answer": "unhypenated",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "a word that is another word backwards",
+          "answer": "semordnilap",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ADULT SWIM",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "You might need a high IQ to appreciate this show featuring a mad scientist grandpa and his grandson as they travel through space and time",
+          "answer": "Rick and Morty",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "John Witherspoon voiced Granddad in this animated comedy about a Black family that moves into the white suburbs of Chicago",
+          "answer": "The Boondocks",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This live-action comedy centers around the eponymous religious figure in modern day Compton opposite Charlie Murphy",
+          "answer": "Black Jesus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The longest running Adult Swim original program, this animated series created by Jackson Publick and Doc Hammer is a re-imagining of characters from Jonny Quest",
+          "answer": "The Venture Bros.",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Tyler the Creator's sketch comedy series feature members of Odd Future in various pranks and skits",
+          "answer": "Loiter Squad",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "LET'S DRINK",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This popular alcoholic seltzer water comes in nine 100-calorie flavors, such as Ruby Grapefruit, Mango, and Lemon",
+          "answer": "White Claw",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The largest cognac producer in the world, this brand is one of the most frequently reference by rappers and was also the favorite drink of Kim Jong-il, the original ABG",
+          "answer": "Hennessy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The largest distributor of Scotch whisky in the world, famous for its colored labels",
+          "answer": "Johnny Walker",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This blue gin brand whose name originates from the popularity of gin in India is distributed by Bacardi",
+          "answer": "Bombay Sapphire",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This Ron Swanson-fave malt whisky brand collaborated with Nick Offerman in 2019 for its smoky 11-year Scotch",
+          "answer": "Lagavulin",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "LET'S DRIVE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This German car with a numeric name celebrated its 50th anniversary in 2013 with 1963 units of the Carrera S model",
+          "answer": "Porsche 911",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This high-end supercar is the modern iteration of \"Godzilla\"",
+          "answer": "Nissan GT-R",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1200,
+          "text": "This American car defeated Ferrari at Le Mans, and its name is a reference to its height in inches",
+          "answer": "Ford GT40",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This is the first car to break 300 mph and currently the fastest car in the world",
+          "answer": "Bugatti Chiron",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "The specific series number of the Sprinter Trueno, marketed from 1983 to 1987 in Japan and made famous by the show Initial D",
+          "answer": "Toyota AE86",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BUT NOT AT THE SAME TIME",
+      "comment": "(Pick which of the 3 did not happen in the same year)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Thomas Jefferson dies, John Adams dies, James Monroe dies",
+          "answer": "James Monroe dies",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Nintendo was founded, Jack the Ripper makes his murders, Theodore Roosevelt is president",
+          "answer": "TR is president",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Star Wars premieres, last guillotine execution in France, cannibalism made illegal in Germany",
+          "answer": "cannibalism made illegal in Germany",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Marilyn Monroe born, Queen Elizabeth II born, Mother Teresa born",
+          "answer": "Mother Teresa born",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Aztec Empire founded, Oxford University founded, The First Crusade begins",
+          "answer": "Aztec Empire founded",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BREAK-UP",
+      "comment": "(I give you the names after the break-up, you give me the name before the break-up)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Czech Republic and Slovakia (1993)",
+          "answer": "Czechoslovakia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Bosnia & Herzegovina, Croatia, Macedonia, Montenegro, Serbia, and Slovenia (1991 - 1992)",
+          "answer": "Yugoslavia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Eritria and _____ (1993)",
+          "answer": "Ethiopia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Namibia and _____ (1990)",
+          "answer": "South Africa",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Singapore and _____ (1965)",
+          "answer": "Malaysia",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MAKE UP",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This brand launched in 2017 by Rihanna is popular for its broad inclusive across skin tones",
+          "answer": "Fenty",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This brand revolutionized neutrals in 2010 with its cult-favorite Naked palette, which has brought in more than $1B in sales for the brand",
+          "answer": "Urban Decay",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1200,
+          "text": "This affordable brand popular with social media influencers is also known for its collaborations with Disney and Sailor Moon",
+          "answer": "Colourpop",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This brand owned by Estee Lauder is famous for their Sweet Peach palette, which drew in a 10,000 person line on its release day",
+          "answer": "Too Faced",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This \"falsies\" (false lashes) brand is known for its Wispies and Demi Wispies with Invisiband",
+          "answer": "Ardell",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HAVE YOURSELF A CR\"I\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "In this vampire romance, are you Team Edward or Team Jacob?",
+          "answer": "Twilight",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Will Elizabeth Bennett end up with Mr. Darcy?",
+          "answer": "Pride and Prejudice",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "\"Cath, she stands, with a well-intentioned man,\" sings Death Cab for Cutie about this Bronte novel. Poor Heathcliff",
+          "answer": "Wuthering Heights",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "In this novel-turned-film with sci-fi elements, Eric Bana is unable to be with Rachel McAdams for some time",
+          "answer": "The Time Traveller's Wife",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Gerry dies and leaves 10 letters of encouragement for Holly to move forward in life and love",
+          "answer": "P.S. I Love You",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "*SQUIDWARD VOICE* FUTURE",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "Often linked with The Singularity and cryonics, this fringe futurist philosophy described by Max More focuses on using technology to augment human intelligence and physiology",
+        "answer": "transhumanism",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
