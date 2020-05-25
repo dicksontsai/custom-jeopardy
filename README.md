@@ -26,6 +26,10 @@ interface Clue {
   value: number;
   isDailyDouble: boolean;
   text: string;
+  // All answers should be placed here, including alternative answers.
   answer: string;
+  // hostNote is an optional field to add notes for the host. Players will
+  // never see the content here.
+  hostNote?: string;
 }
 ```

@@ -139,7 +139,8 @@
         {
           "value": 1000,
           "text": "Cosmic rays interact with atmospheric nitrogen to form this radioactive isotope, which living beings absorb but dead beings do not",
-          "answer": "Carbon-14 (Host note: for radiocarbon dating)",
+          "answer": "Carbon-14",
+          "hostNote": "Used for radiocarbon dating",
           "isDailyDouble": true
         }
       ]
