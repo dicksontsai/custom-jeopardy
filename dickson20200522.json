@@ -12,20 +12,20 @@
         },
         {
           "value": 400,
-          "text": "Do this to \"turn off\" a failing project",
-          "answer": "pull the plug",
-          "isDailyDouble": false
-        },
-        {
-          "value": 600,
-          "text": "Collaboration among employees with different domains of expertise",
+          "text": "Collaboration among employees \"across\" different domains of expertise",
           "answer": "cross-functional",
           "isDailyDouble": false
         },
         {
+          "value": 600,
+          "text": "Two-word phrase for submerging (or drowning?) in reports to perform a thorough investigation",
+          "answer": "deep dive",
+          "isDailyDouble": false
+        },
+        {
           "value": 800,
-          "text": "Feline phrase for a futile attempt to organize uncontrollable entities",
-          "answer": "herding cats",
+          "text": "A \"c\"ompany's fundamental strength, to distinguish it from \"c\"ompetitors",
+          "answer": "core competency",
           "isDailyDouble": false
         },
         {
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "ELECTRIC EUROPEAN",
+      "name": "ELECTRIC EUROPEANS",
       "comment": "",
       "clues": [
         {
@@ -140,7 +140,7 @@
           "value": 1000,
           "text": "Cosmic rays interact with atmospheric nitrogen to form this radioactive isotope, which living beings absorb but dead beings do not",
           "answer": "Carbon-14 (Host note: for radiocarbon dating)",
-          "isDailyDouble": false
+          "isDailyDouble": true
         }
       ]
     },
@@ -150,32 +150,32 @@
       "clues": [
         {
           "value": 200,
-          "text": "This southern city in Taiwan is home to bakeries that sell \"engagement cakes\", for the bride to distribute to her family",
+          "text": "Some bakeries in this \"southern\" city in Taiwan sell engagement cakes, for the bride to distribute to her family",
           "answer": "Tainan",
           "isDailyDouble": false
         },
         {
           "value": 400,
-          "text": "The other word for engagement (noun) derives from \"truth\"",
-          "answer": "betrothal",
+          "text": "Participants were expected to propose after just ten days of \"blind\" dating on this Netflix show",
+          "answer": "Love Is Blind",
           "isDailyDouble": false
         },
         {
           "value": 600,
-          "text": "",
-          "answer": "",
+          "text": "Romans believed that the fourth finger led to here, so they named that connection \"vena amoris\"",
+          "answer": "heart",
           "isDailyDouble": false
         },
         {
           "value": 800,
-          "text": "",
-          "answer": "",
+          "text": "The other word for engagement (noun) that derives from \"truth\"",
+          "answer": "betrothal",
           "isDailyDouble": false
         },
         {
           "value": 1000,
-          "text": "This southern island city ",
-          "answer": "",
+          "text": "Prince Charles proposed to Kate Middleton with a beautiful ring, once worn by his mother Princess Diana, containing this gem",
+          "answer": "sapphire",
           "isDailyDouble": false
         }
       ]
@@ -219,7 +219,151 @@
   ],
   "double": [
     {
-      "name": "MOUNTAINOUS CAPITALS",
+      "name": "SHAKESPEAREAN SPEAK",
+      "comment": "(Fill in the word that Shakespeare coined.)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "A Midsummer Night's Dream: And make his (_______) roll with wonted sight",
+          "answer": "eyeball",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The Merchant of Venice: Though Nestor swear the jest be (_____able)",
+          "answer": "laughable",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Titus Andronicus: Scatter'd by winds and high tempestuous (____s)",
+          "answer": "gusts",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "As You Like It: Take that, and He that doth the ravens feed, Yea providently (c_t__s) for the sparrow",
+          "answer": "caters",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "King Henry VI: Comest though with deep (pre_______ed) lines, with written pamphlets studiously devised",
+          "answer": "premeditated",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AROUND THE HOUSE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Number of electrons for a chemical bond, or a drape over a windowframe",
+          "answer": "valence",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Japanese company is famous for its Washlet, a toilet seat with bidet features",
+          "answer": "Toto",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This type of feather, below the tough exterior feathers of birds, are used for comforters",
+          "answer": "down",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Brand of the \"original slow cooker\", which became popular in the 1970s since women could cook dinner in the morning",
+          "answer": "crock-pot",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "\"T\"his is either used to elevate pots in an open fire, or placed between a serving dish and the dining table to protect the table",
+          "answer": "trivet",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ELECTRIC EUROPEANS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "He died poor, but having a magnetic flux unit and company named after him vaulted him back to popularity",
+          "answer": "Tesla",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In 1931, he helped set up Vatican Radio for Pope Pius XI",
+          "answer": "Marconi",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "One of Maxwell's equations, his law describes how a magnetic field can induce an electric field",
+          "answer": "Faraday",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "His name is one of 72 inscribed on the Eiffel Tower, for studying how currents affect magnetism in two parallel conductors",
+          "answer": "Ampere",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "A complicated circuit can be replaced by his \"equivalent\" simpler circuit of a voltage source and resistor in series",
+          "answer": "Thevenin",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ANIMALS WITH OTHER MEANINGS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Three strikes in a row in bowling",
+          "answer": "turkey",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "NBC's newest streaming service",
+          "answer": "peacock",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "A mammal not native to India but an eponymous brand now belongs to India's Tata Motors",
+          "answer": "jaguar",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Don't borrow money from these exploitative lenders, who charge extremely high interest rates",
+          "answer": "loan shark",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Verb named after this animal meaning \"to turn upside down\", because an upside down boat looks like it",
+          "answer": "to turtle",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MOUNTAINOUS CITIES",
       "comment": "",
       "clues": [
         {
@@ -236,9 +380,9 @@
         },
         {
           "value": 1200,
-          "text": "One of the two state capitals higher than Denver, the mile-high city. Both of those states border Colorado",
+          "text": "One of the two US state capitals higher than Denver, the mile-high city",
           "answer": "Santa Fe (New Mexico) or Cheyenne (Wyoming)",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 1600,
@@ -255,194 +399,50 @@
       ]
     },
     {
-      "name": "",
+      "name": "VOICES OF ANIMATION",
       "comment": "",
       "clues": [
         {
           "value": 400,
-          "text": "",
-          "answer": "",
+          "text": "Shameik Moore voiced this teenage protagonist in Spider-Man: Into the Spider-Verse",
+          "answer": "Miles Morales",
           "isDailyDouble": false
         },
         {
           "value": 800,
-          "text": "",
-          "answer": "",
+          "text": "One of her side gigs outside of SNL was voicing Joy in Inside Out (2015)",
+          "answer": "Amy Poehler",
           "isDailyDouble": false
         },
         {
           "value": 1200,
-          "text": "",
-          "answer": "",
+          "text": "She played Jackie Burkhart in That '70s Show, and also Meg Griffin on Family Guy",
+          "answer": "Mila Kunis",
           "isDailyDouble": false
         },
         {
           "value": 1600,
-          "text": "",
-          "answer": "",
+          "text": "He is the voice of Homer Simpson but has also voiced 31 other characters, like Krusty the Clown",
+          "answer": "Dan Castellaneta",
           "isDailyDouble": false
         },
         {
           "value": 2000,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        }
-      ]
-    },
-    {
-      "name": "",
-      "comment": "",
-      "clues": [
-        {
-          "value": 400,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 800,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1200,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1600,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 2000,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        }
-      ]
-    },
-    {
-      "name": "",
-      "comment": "",
-      "clues": [
-        {
-          "value": 400,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 800,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1200,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1600,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 2000,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        }
-      ]
-    },
-    {
-      "name": "",
-      "comment": "",
-      "clues": [
-        {
-          "value": 400,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 800,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1200,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1600,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 2000,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        }
-      ]
-    },
-    {
-      "name": "",
-      "comment": "",
-      "clues": [
-        {
-          "value": 400,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 800,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1200,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 1600,
-          "text": "",
-          "answer": "",
-          "isDailyDouble": false
-        },
-        {
-          "value": 2000,
-          "text": "",
-          "answer": "",
+          "text": "Creator, executive producer, and the voice behind Rick and Morty",
+          "answer": "Justin Roiland",
           "isDailyDouble": false
         }
       ]
     }
   ],
   "final": {
-    "name": "",
+    "name": "FORTUNE 500",
     "comment": "",
     "clues": [
       {
         "value": 0,
-        "text": "",
-        "answer": "",
+        "text": "This company spun out of a Bank of America program in 1976. It is now the 8th largest company in the US by market cap (May 2020), and larger than BoA",
+        "answer": "Visa Inc.",
         "isDailyDouble": false
       }
     ]
