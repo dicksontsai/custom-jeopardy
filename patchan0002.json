@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "CELEBRITY SONG NAMES",
+      "comment": "(Identify the artist.)",
+      "clues": [
+        {
+          "value": 200,
+          "text": "\"Clint Eastwood\"",
+          "answer": "Gorillaz",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "\"Uma Thurman\"",
+          "answer": "Fall Out Boy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "\"Tim McGraw\"",
+          "answer": "Taylor Swift",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"Rosa Parks\"",
+          "answer": "Outkast",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "\"Drew Barrymore\"",
+          "answer": "SZA",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "13-LETTER WORDS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Occurring every three hundred years",
+          "answer": "tricentennial",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Adjective meaning between galaxies, or a Beastie Boys hit",
+          "answer": "intergalactic",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The process of transformation, possibly biological or magical",
+          "answer": "metamorphosis",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The gradual recovery of health after an illness",
+          "answer": "convalescence",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "To predict the future",
+          "answer": "prognosticate",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CINEMATIC BEFORE & AFTER",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Members of a jury must work together to secretly defend Earth from aliens",
+          "answer": "12 Angry Men in Black",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Gene Kelly is a silent film star who discovers he has an autistic brother after his father died",
+          "answer": "Singin' in the Rain Man ",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Laurie Metcalf and her teenage daughter Saoirse Ronan protect themselves from supernatural entities by wearing blindfolds",
+          "answer": "Lady Bird Box",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Aspiring professional athlete Sanaa Lathan travels around the world on a journey of self-discovery",
+          "answer": "Eat Pray Love & Basketball",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The psychedelic adventures of journalist Johnny Depp and his attorney Gregory Peck, who is being stalked by a criminal he once helped put in jail",
+          "answer": "Cape Fear and Loathing in Las Vegas",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "COUNTRIES' HIGHEST POINTS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Denali",
+          "answer": "United States",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Mount Everest (both countries)",
+          "answer": "China and Nepal",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "K2",
+          "answer": "Pakistan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Mount Kosciuszko",
+          "answer": "Australia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Mount Ararat",
+          "answer": "Turkey",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"S.K.\"(SKSKSKSK)",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This Kellogg's cereal brand is also a slang name of a recreational drug",
+          "answer": "Special K",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Dwayne Johnson portrayed this character in \"The Mummy Returns,\" and even had his own spin-off",
+          "answer": "Scorpion King",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This currency is divided into 100 öre",
+          "answer": "Swedish krona",
+          "isDailyDouble": true
+        },
+        {
+          "value": 800,
+          "text": "This derogatory term refers to a certain type of unskilled hackers",
+          "answer": "a script kiddie",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "He is an eight-time NBA champion, having won five titles as a player, and three as a coach",
+          "answer": "Steve Kerr",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AND I \"OOP\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This rapper co-hosts a VH1 show with Martha Stewart",
+          "answer": "Snoop Dogg",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Gwyneth Paltrow founded this lifestyle brand whose products are widely regarded as pseudoscience",
+          "answer": "Goop",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The National Baseball Hall of Fame and Museum is located in this New York village",
+          "answer": "Cooperstown",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Salt-N-Pepa single was featured in the 2016 film \"Deadpool\"",
+          "answer": "Shoop",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This popular cartoon character was created in 1930 by animator Max Fleischer",
+          "answer": "Betty Boop",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "\"LA\" LA LAND",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This country was known as Ceylon until it became a republic in 1972",
+          "answer": "Sri Lanka",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The proven oil reserves of this country surpassed that of Saudi Arabia to become the world's largest in 2011",
+          "answer": "Venezuela",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Over half of this country's area is located on the island of Borneo",
+          "answer": "Malaysia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "NBA players hailing from this country include Andris Biedriņš and Kristaps Porziņģis",
+          "answer": "Latvia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This country has the second largest number of Portuguese speakers in the world",
+          "answer": "Angola",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "SHAKESPEAREAN LAST WORDS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "\"Thus with a kiss I die.\"",
+          "answer": "Romeo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"A horse! A horse! My kingdom for a horse!\"",
+          "answer": "Richard III",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "\"The drink, the drink! I am poison'd.\"",
+          "answer": "Gertrude",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "\"My sickness grows upon me.\"",
+          "answer": "Regan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "\"Murder!\"",
+          "answer": "Lady Macduff",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS DICKS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This actor was nominated for Golden Globe Awards for \"An Officer and a Gentleman\" and \"Pretty Woman,\" before finally winning one for \"Chicago\"",
+          "answer": "Richard Gere",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This stand-up comedian was the first ever recipient of the Kennedy Center's Mark Twain Prize for American Humor",
+          "answer": "Richard Pryor",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Appearing on works such as \"The Long Walk,\" \"The Running Man,\" and \"The Regulators,\" Richard Bachman is a pen name used by this author",
+          "answer": "Stephen King",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This band, known for their no. 1 hit \"I'm Too Sexy,\" was formed by Richard Fairbrass and his brother Fred in 1989",
+          "answer": "Right Said Fred",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Known for his distinctive style, some of this filmmaker's critically acclaimed works include the \"Before\" trilogy and \"Boyhood\"",
+          "answer": "Richard Linklater",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "ONE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "In mathematics, the number one is called this type of identity",
+          "answer": "multiplicative",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "One is this type of number \"that you'll ever do,\" according to Harry Nilsson",
+          "answer": "loneliest",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This band's \"1\" is a compilation album featuring all 27 of their No. 1 hits in the U.K. and U.S.",
+          "answer": "The Beatles",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Located at One Times Square, this device is a major component of an annual event",
+          "answer": "the Times Square Ball",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "\"We Are Number One\" is a popular meme from this Icelandic children's television series",
+          "answer": "LazyTown",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "WINGED",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This Greek messenger god is often depicted wearing a winged helmet",
+          "answer": "Hermes",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Known for long wingspans, this family of birds is also the name of a golf score",
+          "answer": "albatross",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "These fictional creatures were created in 1900 and made popular in a 1939 film",
+          "answer": "flying monkeys",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Winged Victory of Samothrace, a marble sculpture of the goddess Nike, has been prominently displayed at the top of the Daru staircase at this museum since 1883",
+          "answer": "the Louvre",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "The winged horse Pegasus was captured and tamed by this mythological hero",
+          "answer": "Bellerophon",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ANGEL",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Although still located in this city, the MLB team Angels was renamed the Los Angeles Angels in 2005",
+          "answer": "Anaheim",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "These angelic beings are usually depicted as winged children",
+          "answer": "cherubim",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Released as a sequel to the 2006 film \"The Da Vinci Code,\" the novel it was based on actually came first",
+          "answer": "Angels & Demons",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "First appearing in 2007, Weeping Angels are recurring villains from this long-running sci-fi television series",
+          "answer": "Doctor Who",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Played on an infinite chessboard, the Angel Problem is a theoretical game proposed by this mathematician",
+          "answer": "John Conway",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "AMERICAN HISTORY \"X\"",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "It's the last battle commanded by Ulysses S. Grant",
+        "answer": "the Battle of Appomattox Court House",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
