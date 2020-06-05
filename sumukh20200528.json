@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "Domestic Aviation",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "JetBlue gives their economy passengers the most of this, while low cost carriers provide the least: 28 inches to be precise.",
+          "answer": "legroom",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This airline is known for their distinctive yellow livery, low fares, and having the highest rate of passenger complaints of any airline.",
+          "answer": "Spirit Airlines",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This airline operates the only scheduled route between Guam and Hawaii (making five stops along the way), referred to as the Island Hooper",
+          "answer": "United",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The merger of this airline and United in 2010 created the world's largest airline",
+          "answer": "Continental Airlines",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The United flight between this city in Sonoma Country and San Francisco is the shortest scheduled passenger flight in the continental U.S.",
+          "answer": "Santa Rosa",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Software Companies",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This company wants to make all of the world information searchable and used to have a motto of 'Don't be Evil'. ",
+          "answer": "Google",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This maker of CRM software was founded by Marc Benioff and is headquartered in Salesforce",
+          "answer": "Salesforce",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This ~$200B company was founded by Stanford graduates and has a logo featuring of a bridge in the city it's named for",
+          "answer": "Cisco",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In 1999, if you were looking to place an order for grocery delivery online, you'd turn to this company, which lost over $800M over its five year existence.",
+          "answer": "Webvan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This now defunct company was described as 'making the iPhone, but two decades too early' and is where Andy Hertzfeld, Tony Faddel, and Megan Smith worked.",
+          "answer": "General Magic",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Prime(s)",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "These are the first five prime numbers",
+          "answer": "2, 3, 5, 7, and 11",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "These mathematician in 300BC showed that there are infinitely many primes",
+          "answer": "Euclid",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Except for zero and one, these kinds of numbers are explicitly not prime numbers",
+          "answer": "Composite Numbers",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Every prime number that is not two is called one of these",
+          "answer": "Odd prime",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This kind of prime is either 2 less or 2 more than another prime number and an unproven conjecture shows that there are infinitely many of these",
+          "answer": "Twin prime",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Politics in America",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Since 1900, this political party has had more presidents elected than any other",
+          "answer": "Republican",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This president was the last Democrat who won Texas in a presidential election",
+          "answer": "Jimmy Carter",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The US Department of Justice found that this person was the cause of the worst racial profiling in US history and was defeated in 2016 by a Democratic candidate for Sheriff.",
+          "answer": "Joe Arapio",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This think tank was founded by a Koch brother and is known for pushing limited government, free markets, and downplaying climate change.",
+          "answer": "Cato (Institute)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This political organization replaced the Federalists and elected the 9th president of the US, William Henry Harrison.",
+          "answer": "Whig",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "BBB",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This is a consumer rights organization where you can go to look up complaints about businesses",
+          "answer": "Better Business Bureau",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This home goods retailer is known for mailing out 20% off coupons",
+          "answer": "Bed Bath and Beyond",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "These three classical composers are the pre-eminent composers in their field and are referred to as the 'Three Bs'",
+          "answer": "Bach, Beethoven, and Brahms (or Berlioz)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This kind of company, including Moody's and Standard & Poors, issue grades for investments where a BBB is better than a BB.",
+          "answer": "Credit Rating (Agencies)",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1000,
+          "text": "The failure of this part of the neuro-immune system is linked with Alzheimer's, Meningitis, and Multiple Sclerosis.",
+          "answer": "Blood-brain barrier",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Pokemon",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This country is where Pokemon was created where it is known as Pocket Monsters",
+          "answer": "Japan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In Pokemon, Charjabug, Electrike, Larvitar and Scyther are this color, often associated with the Grass type",
+          "answer": "green",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This Pokemon is literally just a rock with arms",
+          "answer": "Geodude",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A common Pokemon based on this animal comes in red and blue striped kinds and can be caught with rods",
+          "answer": "fish",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Pokemon shaped like these confections are the only Ice-types found in the Cold Storage and is part of the evolutionary line of Vanillite",
+          "answer": "Ice Cream (Cone)",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "In the Stars",
+      "comment": "Space Themed TV or Films",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Commonly confused for Star Wars, this series created by Gene Roddenberry, features characters like Spock and Picard",
+          "answer": "Star Trek",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This object makes a distinctive hiss when it is worn and is sought by both Kylo Ren and Luke Skywalker",
+          "answer": "Darth Vader's Helmet",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This TV series, adapted from a series of novels by James S. A. Corey, features a conflict between Earth, Mars, and the Outer Planets Alliance.",
+          "answer": "The Expanse",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This film, starring Tim Allen, is best known for the line 'Never Give Up, Never Surrender' and parodies Star Trek",
+          "answer": "Galaxy Quest",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "This species, seen in Star Trek's The Next Generation, includes Ro Laren, who has ridges on her nose, and forms part of the Macquis.",
+          "answer": "Bajoran",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Modern Video Games",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This Blizzard first-person shooter game features characters like Tracer and Genji",
+          "answer": "Overwatch",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This developer is known for games “where high culture and pop culture collide” such as Trivia Murder Party, Monster Seeking Monster, and Drawful.",
+          "answer": "Jackbox",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This notorious track, a road named after a meteorological phenomenon, is featured in Mario Kart.",
+          "answer": "Rainbow Road",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This video game created in 1984 is one the best selling video games of all time and is still played competitively.",
+          "answer": "Tetris",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This title is given to Mipha, Daruk, Revali, Urbosa, and Link in Legend of Zelda: Breath of the Wild",
+          "answer": "Champion",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Fiction",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Antoine de Saint-Exupery’s most famous work is known for its combination of magical realism and philosophy",
+          "answer": "The Prince",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The Battle Hymn of the Republic inspired the title of this 1939 Steinbeck novel",
+          "answer": "The Grapes of Wrath",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This Japanese novel is widely considered to be the first written full length novel.",
+          "answer": "The Tale of Genji",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The Battle Hymn of the Republic inspired the title of this 1939 Steinbeck novel",
+          "answer": "The Grapes of Wrath",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This novel was the first to feature Sherlock Holmes and Dr.Watson",
+          "answer": "A Study in Scarlet",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Literary Greats",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This author of Breakfast at Tiffany’s and In Cold Blood pioneered the style of narrative nonfiction.",
+          "answer": "Truman Capote",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This poet who authored 'I Know Why the Caged Bird Sings' was nominated for a Tony, Pulitzer, won three Grammys, and the Presidential Medal of Freedom.",
+          "answer": "Maya Angelou",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This Bohemian novelist explores byzantine socio-bureaucratic organizations in works like The Trial and Metamorphosis.",
+          "answer": "(Franz) Kafka",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This author won the Nobel Prize in Literature in 1993 and wrote critically acclaimed novels Song of Solomon and Beloved.",
+          "answer": "Toni Morrison (Chloe Ardelia Wofford)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This Jane Austen novel published in 1815 is not Pride and Prejudice but was the last novel published during her lifetime.",
+          "answer": "Emma",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Converters",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This kind of electrical device converts DC to AC and can produce square or sine waves",
+          "answer": "Inverter",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Isaac Newton, Ge Hong, Paracelsus, Hennig Brand all experimented with this field of research aimed at converting metals.",
+          "answer": "Alchemy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This American rapper, famous for 'Ridin' and 'Turn it Up' converted from Islam to Christianity at a young age ",
+          "answer": "Chamillionaire (or Hakeem Seriki)",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "This company is the worlds largest foreign exchange bureau, you can see their branches at most international airports.",
+          "answer": "Travelex",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This country was the first to take on metrication in 1795, the process of standardizing on using the Metric system",
+          "answer": "France",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "1999",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This international currency was established by the European Central Bank",
+          "answer": "Euro",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Control of this canal was handed over on December 31st as part of a treaty agreed to in 1977",
+          "answer": "Panama",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This war ended in June of 1999 after NATO intervention and is the subject of war crime tribunals.",
+          "answer": "Kosovo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This merger between two massive energy companies closed in 1999 to form the world's largest corporation.",
+          "answer": "ExxonMobil",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "A coup in this country ousted Prime Minister Sharif and installed Army General Musharraf who held power until 2008",
+          "answer": "Pakistan",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "Religion",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "The Theravada is the older form of this religion and is contrasted by the Mahayana division",
+        "answer": "Buddhism",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
