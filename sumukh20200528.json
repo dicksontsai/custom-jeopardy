@@ -18,7 +18,7 @@
         },
         {
           "value": 600,
-          "text": "This airline operates the only scheduled route between Guam and Hawaii (making five stops along the way), referred to as the Island Hooper",
+          "text": "This airline operates the only scheduled route between Guam and Hawaii (making five stops along the way), referred to as the Island Hopper",
           "answer": "United",
           "isDailyDouble": false
         },
@@ -48,7 +48,7 @@
         },
         {
           "value": 400,
-          "text": "This maker of CRM software was founded by Marc Benioff and is headquartered in Salesforce",
+          "text": "This maker of CRM software was founded by Marc Benioff and is headquartered in San Francisco",
           "answer": "Salesforce",
           "isDailyDouble": false
         },
@@ -127,7 +127,7 @@
         {
           "value": 600,
           "text": "The US Department of Justice found that this person was the cause of the worst racial profiling in US history and was defeated in 2016 by a Democratic candidate for Sheriff.",
-          "answer": "Joe Arapio",
+          "answer": "Joe Arpaio",
           "isDailyDouble": false
         },
         {
@@ -314,8 +314,8 @@
         },
         {
           "value": 1600,
-          "text": "The Battle Hymn of the Republic inspired the title of this 1939 Steinbeck novel",
-          "answer": "The Grapes of Wrath",
+          "text": "<placeholder clue>",
+          "answer": "<placeholder>",
           "isDailyDouble": false
         },
         {
