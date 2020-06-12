@@ -18,7 +18,7 @@
         },
         {
           "value": 600,
-          "text": "This airline operates the only scheduled route between Guam and Hawaii (making five stops along the way), referred to as the Island Hooper",
+          "text": "This airline operates the only scheduled route between Guam and Hawaii (making five stops along the way), referred to as the Island Hopper",
           "answer": "United",
           "isDailyDouble": false
         },
@@ -127,7 +127,7 @@
         {
           "value": 600,
           "text": "The US Department of Justice found that this person was the cause of the worst racial profiling in US history and was defeated in 2016 by a Democratic candidate for Sheriff.",
-          "answer": "Joe Arapio",
+          "answer": "Joe Arpaio",
           "isDailyDouble": false
         },
         {

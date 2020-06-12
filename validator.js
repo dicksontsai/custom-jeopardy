@@ -1,22 +1,16 @@
 var fs = require("fs");
 
-function readFiles(dirname, onFileContent, onError) {
-  fs.readdir(dirname, function(err, filenames) {
-    if (err) {
-      onError(err);
+function readFiles(dirname, onFileContent) {
+  const filenames = fs.readdirSync(dirname);
+  filenames.forEach(function(filename) {
+    if (!filename.endsWith("json") || filename === "template.json") {
       return;
     }
-    filenames.forEach(function(filename) {
-      if (!filename.endsWith("json") || filename === "template.json") {
-        return;
+    fs.readFile(dirname + filename, "utf-8", function(err, content) {
+      if (err) {
+        throw new Error(err);
       }
-      fs.readFile(dirname + filename, "utf-8", function(err, content) {
-        if (err) {
-          onError(err);
-          return;
-        }
-        onFileContent(filename, content);
-      });
+      onFileContent(filename, content);
     });
   });
 }
@@ -27,16 +21,17 @@ function checkRegularRound(obj, roundName) {
   const isSingle = roundName === "single";
   const multiplier = isSingle ? 1 : 2;
   if (obj.length !== 6) {
-    throw new Error(roundName + " must have 6 categories.");
+    throw new Error(`${roundName} must have 6 categories.`);
   }
+  const allContent = new Set();
   let numDailyDouble = 0;
   obj.forEach(function(category) {
-    if (category === "") {
+    if (category.name === "") {
       throw new Error("category name cannot be empty");
     }
     if (category.clues.length !== 5) {
       throw new Error(
-        roundName + " category " + category + " must have 5 clues."
+        `${roundName} category ${category.name} must have 5 clues.`
       );
     }
     category.clues.forEach(function(clue, i) {
@@ -44,20 +39,24 @@ function checkRegularRound(obj, roundName) {
       const expectedValue = clueValues[i] * multiplier;
       if (clue.value !== expectedValue) {
         throw new Error(
-          roundName +
-            " category " +
-            category +
-            " clue index " +
-            i +
-            " expected value " +
-            expectedValue +
-            " got " +
-            clue.value
+          `${roundName} category ${category.name} clue index ${i} expected value ${expectedValue} got ${clue.value}.`
         );
       }
       if (clue.isDailyDouble) {
         numDailyDouble++;
       }
+      if (allContent.has(clue.text)) {
+        throw new Error(
+          `${roundName} category ${category.name} ${clue.value} duplicate clue: ${clue.text}`
+        );
+      }
+      allContent.add(clue.text);
+      if (allContent.has(clue.answer)) {
+        throw new Error(
+          `${roundName} category ${category.name} ${clue.value} duplicate answer: ${clue.answer}`
+        );
+      }
+      allContent.add(clue.answer);
     });
   });
   if (
@@ -89,16 +88,10 @@ function checkClue(obj) {
   }
 }
 
-readFiles(
-  "./",
-  function(filename, content) {
-    console.log("Testing file " + filename);
-    const game = JSON.parse(content);
-    checkRegularRound(game.single, "single");
-    checkRegularRound(game.double, "double");
-    checkFinalRound(game.final);
-  },
-  function(err) {
-    throw err;
-  }
-);
+readFiles("./", function(filename, content) {
+  console.log("Testing file " + filename);
+  const game = JSON.parse(content);
+  checkRegularRound(game.single, "single");
+  checkRegularRound(game.double, "double");
+  checkFinalRound(game.final);
+});
