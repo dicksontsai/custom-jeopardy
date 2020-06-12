@@ -88,7 +88,6 @@ function checkClue(obj) {
   }
 }
 
-let hasError = false;
 readFiles("./", function(filename, content) {
   console.log("Testing file " + filename);
   const game = JSON.parse(content);
