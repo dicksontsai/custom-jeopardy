@@ -248,7 +248,7 @@
         },
         {
           "value": 2000,
-          "text": "This species, seen in Star Trek's The Next Generation, includes Ro Laren, who has ridges on her nose, and forms part of the Macquis.",
+          "text": "This species, seen in Star Trek's Deep Space Nine, includes Ro Laren, who has ridges on her nose, and forms part of the Macquis.",
           "answer": "Bajoran",
           "isDailyDouble": false
         }
@@ -302,8 +302,8 @@
         },
         {
           "value": 800,
-          "text": "The Battle Hymn of the Republic inspired the title of this 1939 Steinbeck novel",
-          "answer": "The Grapes of Wrath",
+          "text": "This prolific author of over 146 novels is the best selling author still alive.",
+          "answer": "Danielle Steel",
           "isDailyDouble": false
         },
         {
@@ -333,7 +333,7 @@
         {
           "value": 400,
           "text": "This author of Breakfast at Tiffany’s and In Cold Blood pioneered the style of narrative nonfiction.",
-          "answer": "Truman Capote",
+          "answer": "(Truman) Capote",
           "isDailyDouble": false
         },
         {
