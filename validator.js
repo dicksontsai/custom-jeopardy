@@ -1,22 +1,16 @@
 var fs = require("fs");
 
-function readFiles(dirname, onFileContent, onError) {
-  fs.readdir(dirname, function(err, filenames) {
-    if (err) {
-      onError(err);
+function readFiles(dirname, onFileContent) {
+  const filenames = fs.readdirSync(dirname);
+  filenames.forEach(function(filename) {
+    if (!filename.endsWith("json") || filename === "template.json") {
       return;
     }
-    filenames.forEach(function(filename) {
-      if (!filename.endsWith("json") || filename === "template.json") {
-        return;
+    fs.readFile(dirname + filename, "utf-8", function(err, content) {
+      if (err) {
+        throw new Error(err);
       }
-      fs.readFile(dirname + filename, "utf-8", function(err, content) {
-        if (err) {
-          onError(err);
-          return;
-        }
-        onFileContent(filename, content);
-      });
+      onFileContent(filename, content);
     });
   });
 }
@@ -94,25 +88,11 @@ function checkClue(obj) {
   }
 }
 
-readFiles(
-  "./",
-  function(filename, content) {
-    console.log("Testing file " + filename);
-    let hasError = false;
-    try {
-      const game = JSON.parse(content);
-      checkRegularRound(game.single, "single");
-      checkRegularRound(game.double, "double");
-      checkFinalRound(game.final);
-    } catch (e) {
-      console.log("Error encountered: " + e.message);
-      hasError = true;
-    }
-    if (hasError) {
-      throw new Error("At least one game failed validation.");
-    }
-  },
-  function(err) {
-    throw err;
-  }
-);
+let hasError = false;
+readFiles("./", function(filename, content) {
+  console.log("Testing file " + filename);
+  const game = JSON.parse(content);
+  checkRegularRound(game.single, "single");
+  checkRegularRound(game.double, "double");
+  checkFinalRound(game.final);
+});
