@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "Name of the Wind",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "If you feel a cool refreshing bree\"z\"e from the west, you are experiencing this favorable sort of wind.",
+          "answer": "Zephyr",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "A cyclone in the Atlantic or northeastern Pacific Ocean is called a Hurricane, but if it's in the northwest Pacific it is instead known by this name.",
+          "answer": "Typhoon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Don't be sad if you don't know this term for a low-pressure area that may lead to a larger storm.",
+          "answer": "Depression",
+          "isDailyDouble": true
+        },
+        {
+          "value": 800,
+          "text": "Like many cities, the first tropical storms to be formally identified borrowed names from these revered figures.",
+          "answer": "Saints",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Cold air passing over the Rocky Mountains can lead to this kind of warm winter wind, which causes huge temperature spikes and melts snow across the interior of North America.",
+          "answer": "Chinook (or föhn)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "A Good Fall",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "It was a good day in October of 1990 when this country was finally reunited after 45 years.",
+          "answer": "Germany",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "One side of the bay was having a good time in November 1982 after the band prematurely entered the field during a football game between these rival schools. ",
+          "answer": "UC Berkeley & Stanford",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Koreans celebrate Hangul Day on October 9 to commemorate when this great king introduced his new alphabet to boost literacy.",
+          "answer": "King Sejong",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Just in time for the Olympics, the first bullet train began operating in the fall of 1964 between these largest two cities in Japan. ",
+          "answer": "Tokyo and Osaka",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "It was a momentus occasion in October of 1590 when this explorer first rounded the tip of South America, via the strait that now carries his name.",
+          "answer": "Ferdinand Magellan",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "The Color of Magic",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "In The Hobbit, Bilbo discovers Sting, an elvish sword that glows this color when orcs are nearby.",
+          "answer": "Blue",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In the Mistborn series, an Augur is a Misting who burns this metal to see an alternate version of their past.",
+          "answer": "Gold",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "In addition to offensive black mages and support-based white mages, the original Final Fantasy also included this colorful type of caster that could use spells from both categories.",
+          "answer": "Red mage",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In Fullmetal Alchemist, this type of alchemy would release a green energy when performed by Russell and Fletcher Tringham.",
+          "answer": "Plant alchemy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "In the Kingkiller Chronicles, Felurian gifts Kvothe with a cloak made of starlight woven into this material.",
+          "answer": "Shadows (or shaed)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "I Am Legend",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This lost civilization was first mentioned in Plato's works Timaeus and Critias.",
+          "answer": "Atlantis",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This Chinese folklore character that often appears transformed as a beautiful young woman has counterparts in both Japanese and Korean mythology.",
+          "answer": "Nine-Tailed Fox; Huli jing; Gumiho",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "King Arthur and Indiana Jones are among the many that have searched for this sacred relic.",
+          "answer": "Holy Grail",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Ponce de León learned of this natural resource from the Taino Indians.",
+          "answer": "Fountain of Youth",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This American pioneer is credited with planting vast forests with just a tin pot on his head and a handful of seeds.",
+          "answer": "Johnny Appleseed",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Dune",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "At 9,334 feet above sea level, the Duna Federico Kirbus is the tallest sand dune in the world, and is located in this desert that is well known to tech employees.",
+          "answer": "Patagonia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The Eureka dunes in this California park are some of the tallest dunes in North America at more than 680 feet tall.",
+          "answer": "Death Valley National Park",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Dunes actually cover just 15% of the Sahara Desert and are primarily located in these two North African countries.",
+          "answer": "Algeria & Libya",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The otherworldy sand dunes of Wadi Rum in Jordan have made it a suitable filming stand in for this place that is much harder to reach..",
+          "answer": "Mars",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Thought to have been formed by glaciers, the Athabasca Sand Dunes in Saskatchewan, Canada, are a geological oddity in that they are not located in a desert, but in one of these natural features.",
+          "answer": "River",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Extreme \"E\"conomies",
+      "comment": "Each answer begins with E",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Vehicles are Japan’s largest of these, at $148.8 billion USD in 2019.",
+          "answer": "Exports",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The BRIC (Brazil, Russia, India, China) nations, accounting for roughly 40% of production globally, are referred to as these markets",
+          "answer": "Emerging markets",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Before the disbursement of a will, the deceased’s assets are held in this contractual arrangement.",
+          "answer": "Escrow",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The price of goods low in this measure, like salt and diamonds, are relatively insensitive to changes in supply or demand.",
+          "answer": "Elasticity",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Air, water, and noise pollution are common examples of these byproducts of production.",
+          "answer": "Externalities",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "Joy",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Nintendo was recently hit with several class action lawsuits over the reliability of this product.",
+          "answer": "Joy-Con",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This hymn is the most-published Christmas carol in North America.",
+          "answer": "Joy to the World",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Food and mahjong are central themes in this Chinese-American immigrant novel.",
+          "answer": "Joy Luck Club",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The 2015 movie Joy was the fourth collaboration between these two stars.",
+          "answer": "Jennifer Lawrence & Bradley Cooper",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Julia Child first learned her craft from this famous book, first published by a homemaker in 1931.",
+          "answer": "Joy of Cooking",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Jeff-free",
+      "comment": "Imagining things if Jeff weren't there",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Without Jeff Dean, Google wouldn't have created this framework that has enabled wide spread adoption of machine learning.",
+          "answer": "TensorFlow",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Without disbarred lawyer Jeff Winger, the characters of this NBC sitcom would not have come together into a study group.",
+          "answer": "Community",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Take out Jeff Goldblum as the Grandmaster in 2017's Thor: Ragnarok, and the title hero wouldn't have faced this fellow Avenger in the arena.",
+          "answer": "The Hulk",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Without Jeff Bridges, we would have never met “the Dude” in this cult hit movie.",
+          "answer": "The Big Lebowski",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "If Jeff Sessions weren't around, President Trump would have had to found another person to fill this lofty legal office in 2017.",
+          "answer": "Attorney General",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "All \"Bert\"",
+      "comment": "Bert shows up in each correct response",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This stage of human development is signalled by the release of gonadotropins from the brain.",
+          "answer": "Puberty",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Canadian province was named for the fourth daughter of Queen Victoria.",
+          "answer": "Alberta",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "In 1975, he became the first film critic to win the Pulitzer Prize for Criticism.",
+          "answer": "Roger Ebert",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This tripartite motto that hails from the englightenment was adapated into the first article of the Universal Declaration of Human Rights. ",
+          "answer": "liberté, égalité, fraternité",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This British philosopher, logician, and mathematician co-wrote Principia Mathematica in 1910.",
+          "answer": "Bertrand Russell",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "Sum",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Idiomatically, the whole is more than it.",
+          "answer": "Sum of its parts",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Canadian band first rose to fame with their single \"Fat Lip\" in 2001, and is still rocking today.",
+          "answer": "Sum 41",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Beginners to calculus are often taught how to approximate an integral by summing the areas of many rectangles or trapezoids, a technique named for this German mathematician.",
+          "answer": "Bernhard Riemann",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "ThSum of all fearsis Tom Clancy thriller about imminent nuclear war was made into a 2002 movie starring Ben Affleck as Jack Ryan.",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This formulation of a periodic function as a sum of harmonic sinusoids forms the basis of modern image and video compression algorithms.",
+          "answer": "Fourier series",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"T\"sai-ence",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "One of the many things named for this inventor is the SI unit for magnetic flux density.",
+          "answer": "Tesla",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Having trouble with a rusty bolt? Try using a cheater bar, a long tool used to increase this type of force.",
+          "answer": "Torque",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Shortening of these during genetic replication is associated with aging and mortality.",
+          "answer": "Telomere",
+          "isDailyDouble": false
+        },
+		{
+          "value": 1600,
+          "text": "A colorful indicator is typically used when performing this type of experiment to determine the concentration of a substance in a solution.",
+          "answer": "Titration",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "This system assigns numbers to each level of the food chain, with plants at level 1 and humans averaging around 2.2.",
+          "answer": "Trophic level",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Go Bears!",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This honey loving bear was named for the stuffed toy of the author's son Christopher.",
+          "answer": "Winnie the Pooh",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The flag of California, officially the Bear Flag, was based on the now extinct California variety of this species. ",
+          "answer": "Grizzly bear",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Stuffed bears became a wildly popular toy after a 1902 political cartoon featuring this man.",
+          "answer": "Theodore Roosevelt",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Although it sometimes hangs upside down from trees, this bear species is much faster and more agile than its name suggests.",
+          "answer": "Sloth bear",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This phrase for gifting bears as a sign of peace and friendship was coined during the Cold War, but it has been used by China as far back as the 7th century. ",
+          "answer": "Panda Diplomacy",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "2000's TV Shows",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "In 2002, the cast of this show made history when they used collective bargaining to negotiate $1 million per episode each.",
+        "answer": "Friends",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
