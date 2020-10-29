@@ -68,7 +68,7 @@
           "value": 1000,
           "text": "C-SPAN",
           "answer": "Cable-Satellite Public Affairs Network",
-          "isDailyDouble": false
+          "isDailyDouble": true
         }
       ]
     },
@@ -244,7 +244,7 @@
           "value": 1600,
           "text": "Han Dynasty, Edo Period, Founding of Constantinople",
           "answer": "Han Dynasty",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 2000,
@@ -424,7 +424,7 @@
           "value": 1600,
           "text": "This play is about a farm girl who is courted by two rival suitors, one famously played by Hugh Jackman, in the Sooner State",
           "answer": "Oklahoma!",
-          "isDailyDouble": false
+          "isDailyDouble": true
         },
         {
           "value": 2000,
