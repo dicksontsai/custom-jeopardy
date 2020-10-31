@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "State's Tallest Mountain",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Mount Rainier",
+          "answer": "Washington",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Mount Whitney",
+          "answer": "California",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Denali",
+          "answer": "Alaska",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Pike's Peak",
+          "answer": "Colorado",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Mount Mitchell (tallest point east of the Mississippi & tallest in the Appalachians)",
+          "answer": "North Carolina",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TV Acronyms",
+      "comment": "(I give you the acronym, you give me the full name)",
+      "clues": [
+        {
+          "value": 200,
+          "text": "HBO",
+          "answer": "Home Box Office",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "WWE",
+          "answer": "World Wrestling Entertainment",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "HGTV",
+          "answer": "Home & Garden Television",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "ESPN",
+          "answer": "Entertainment and Sports Programming Network",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "C-SPAN",
+          "answer": "Cable-Satellite Public Affairs Network",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "Color Theory",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Wireless technology standard, also known as \"short-link\" radio",
+          "answer": "Bluetooth",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In engineering, a randomly generated signal; to us, nature sounds",
+          "answer": "white noise",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Three-word nickname for Quotations from Chairman Mao",
+          "answer": "\"Little Red Book\"",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Reporting that is based upon sensationalism rather than content, used often in relation to William Hearst",
+          "answer": "yellow journalism",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The discriminatory practice of fencing off areas where banks would avoid investments based on community demographics",
+          "answer": "redlining",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "I'm Turning...",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "...into a bloodsucking creature famously afraid of the light",
+          "answer": "vampire",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "...into a four-letter Himalayan snow monster; no, not a microphone",
+          "answer": "yeti",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "...into a creature that sucks the blood of livestock, specifically goats, first named in Puerto Rico",
+          "answer": "chupacabra",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "...into a fantastical creature often described as a flying biped with hooves, a kangaroo-like body with a goat's head and bat-like wings, named for a foresty US state",
+          "answer": "Jersey Devil",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "...into a green river demon from Japanese folklore, who drowns its victims",
+          "answer": "kappa",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "23",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This man was stabbed 23 times on the Ides of March",
+          "answer": "Julius Caesar",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Human cells typically have 23 pairs of these",
+          "answer": "chromosomes",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "23 was the number worn by this 6x NBA Champion",
+          "answer": "Michael Jordan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "X-23 and Logan are both characters in the Marvel universe, who both have gone by this well-known superhero name",
+          "answer": "Wolverine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "\"Though I walk through the valley of the __ of the __\" is a quote Psalm 23, the most well-known Psalm in the Bible",
+          "answer": "the valley of the shadow of death",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CEOs (in Oct 2020)",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Microsoft",
+          "answer": "Satya Nadella",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Fenty",
+          "answer": "Rihanna",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Twitter",
+          "answer": "Jack Dorsey",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Salesforce",
+          "answer": "Marc Benioff",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Disney",
+          "answer": "Bob Chapek",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "What Came First",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Aztec, Inca, Maya",
+          "answer": "Maya",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "JFK: \"Ask not what your country can do for you\", MLK: \"I have a dream\", Tim Leary: \"Tune in, tune out, drop out\"",
+          "answer": "JFK",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Dreamcast, Playstation, Nintendo 64",
+          "answer": "Playstation",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Han Dynasty, Edo Period, Founding of Constantinople",
+          "answer": "Han Dynasty",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "Arthur, Cleveland, Garfield",
+          "answer": "Garfield",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Famous Book Endings",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "\"I got to light out for the territory ahead of the rest, because Aunt Sally she's going to adopt me and sivilize me, and I can't stand it. I been there before.\"",
+          "answer": "The Adventure of Huckleberry Finn",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"So we beat on, boats against the current, borne back ceaselessly into the past.\"",
+          "answer": "The Great Gatsby",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "\"After all, tomorrow is another day.\"",
+          "answer": "Gone With The Wind",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "\"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.\"",
+          "answer": "Animal Farm",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "\"It's funny. Don't ever tell anybody anything. If you do, you start missing everybody.\"",
+          "answer": "The Catcher in the Rye",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Lost",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This woman was an aviator who was lost at sea during an attempted circumnavigational flight of the globe",
+          "answer": "Amelia Earhart",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Also known as the \"Lost Colony\", this early settlement mysteriously disappeared, leaving only the word \"CROATOAN\" carved into a wall",
+          "answer": "Roanoke",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The pseudonym of an unidentified man who hijacked a Boeing 727 and went missing after parachuting away with $200,000 in cash, becoming the only unsolved case of air piracy in commercial aviation history",
+          "answer": "DB Cooper",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "An English sea explorer who explored the region around present-day New York City, who went lost after his crew mutinied and left him adrift in the James Bay",
+          "answer": "Henry Hudson",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Famous labor union leader and Teamster who mysteriously disappeared in 1975, theorists speculate he was offed by the Mafia",
+          "answer": "Jimmy Hoffa",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"In A\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "A belief from Christianity that our fates have already been determined by God, also title in an Ethan Hawke movie",
+          "answer": "predestination",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The act of making distinctions, often unjust, across different groups, also defined in an Equal Employment law",
+          "answer": "discrimination",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The beginning of a period, also a day defined in a US Constitutional Amendment",
+          "answer": "inauguration",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "A bar, also a shootout location in a Star Wars movie",
+          "answer": "cantina",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "A type of chest pain, cause by reduced flow to the heart, also monologue in a Samer Nashef book",
+          "answer": "angina",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Fast Food",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "The fastest land mammal, with speeds up to 80 mph, food to spotted hyenas and lions",
+          "answer": "cheetah",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "\"Eat the ___!\" The fastest travellers in the world, with the aid of technology, food to the proletariat",
+          "answer": "rich",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Sharing the name of an MLB team, it is one of the fastest fish in the sea, with speeds up to 82 mph, food to humans and sharks",
+          "answer": "marlin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The fastest aerial animal is this type of falcon, with speeds up to 186 mph, food to eagles and other falcons",
+          "answer": "Peregrine falcon",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "The Australian Tiger ___ is the fastest insect in the world, with speeds up to 6 mph (125x body lengths per second), food to lizards and birds",
+          "answer": "tiger beetle",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Play Place",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This play is about four singers from the Garden State",
+          "answer": "Jersey Boys",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This play is a satire on corruption in the criminal justice system in the Windy City",
+          "answer": "Chicago",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This play is about a director's efforts to mount a successful musical at the height of the Great Depression, named for the location where you might see it",
+          "answer": "42nd Street",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This play is about a farm girl who is courted by two rival suitors, one famously played by Hugh Jackman, in the Sooner State",
+          "answer": "Oklahoma!",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "This Tom Stoppard play is about the relationship between past, present, entropy, and a math tutor; no, not the city that's home to the annual 626 Night Market",
+          "answer": "Arcadia",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "Spoopy Time",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "A common symbol for this holiday, based on All Saints' Day and celebrated after Halloween on All Souls' Day, is the calavera.",
+        "answer": "Dia de los Muertos, Dia de Muertos, or Day of the Dead",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
