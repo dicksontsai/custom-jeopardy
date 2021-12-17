@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "ASIAN AMERICANS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "He started off writing for SNL before becoming a main cast member in 2019",
+          "answer": "Bowen Yang",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "His hit show \"Worth It\" started off by comparing sushi at different price points",
+          "answer": "Steven Lim",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Lana Condor, born Tran Dong Lan, plays Lara Jean Covey in this Netflix franchise",
+          "answer": "To All the Boys",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Her first novel, \"Everything I Never Told You\" is about the tragic story of Lydia Lee",
+          "answer": "Celeste Ng",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "He was invited by Jamie Hyneman to join Mythbusters, joining forces with Kari Byron and Tory Belleci",
+          "answer": "Grant Imahara",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HOUSEHOLD NAMES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This mouthwash became a huge commercial success after renaming bad breath \"chronic halitosis\" in 1920",
+          "answer": "Listerine",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In Europe, this 'ultra soft' brand is known as Cushelle",
+          "answer": "Charmin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This \"c\"ompany first sold toothpaste in glass jars in 1873 before introducing the tube 23 years later",
+          "answer": "Colgate",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Zojirushi is known for producing appliances that cook this specific food",
+          "answer": "rice",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Founded by an Austrian immigrant, this Wisconsin company produces a variety of bathroom fixtures",
+          "answer": "Kohler",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "VOLCANOES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Unusually large eruptions can cause this phenomenon, where global temperatures drop from volcanic ash obscuring the sun",
+          "answer": "volcanic winter",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "You can find kuro-tamago at this town, where the sulfur from hot springs gives eggs a distinct black color",
+          "answer": "Hakone",
+          "isDailyDouble": true
+        },
+        {
+          "value": 600,
+          "text": "Semeru, in this country, erupted on December 6, 2021, killing at least 34 people",
+          "answer": "Indonesia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Haleakala, a dormant volcano on this Hawaii island, means \"House of the Sun\"",
+          "answer": "Maui",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This volcano on Sicily is 2.5x taller than Vesuvius and is still very active today",
+          "answer": "Etna",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AMONG US",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This strongest insect happens to feed on feces: basically powered by poop?",
+          "answer": "dung beetle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This man has actually won the most Oscars, mainly due to his work in animation",
+          "answer": "Walt Dinsey",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The Pan-American Highway, a so-called \"longest road\", is split because of this rainforest gap",
+          "answer": "Darién Gap",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This desert in Chile is known as the driest place on Earth. Some locations have not seen rain in 500 years",
+          "answer": "Atacama",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Despite withdrawing from some events at the Tokyo Olympics, she remains the most decorated gymnast of all time",
+          "answer": "Simone Biles",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"MIRA\"",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Naval commander",
+          "answer": "admiral",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This warning tells you that you have the right to remain silent",
+          "answer": "Miranda warning (rights)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This Vegas resort, famous for its white tigers, had the name \"Bombay Club\" during construction",
+          "answer": "The Mirage",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "An Arab kingdom, like Kuwait",
+          "answer": "emirate",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The play where the Titans returned a kickoff for a touchdown with 16 seconds left to defeat the Bills",
+          "answer": "Music City Miracle",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "POLLS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This firm successfully predicted FDR's \"horse race\" against Alfred Landon, making it America's leading poller",
+          "answer": "Gallup",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "He famously held up a copy of the Chicago Daily Tribune, which prematurely announced that he lost his presidental election",
+          "answer": "Harry Truman",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Based on this law of statistics, a 3% margin of error means 95% of repetitions of the same procedure yield a value within than margin",
+          "answer": "Law of Large Numbers",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This nonpartisan research center calls itself a \"fact tank\"",
+          "answer": "Pew Research Center",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This polling effect, named for British Conservatives who did not want to reveal their actual votes, seemed to apply to US Republicans as well",
+          "answer": "Shy Tory factor",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "SPOTIFY'S MOST STREAMED 2021",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This group performed, smooth like \"butter\", for the first time in two years at SoFi Stadium in late 2021",
+          "answer": "BTS",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In this most streamed song, Olivia Rodrigo sang about driving \"through the suburbs, crying 'cause you weren't around\"",
+          "answer": "drivers license",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This Puerto Rican rapper, who created Mía with Drake, edged out Taylor Swift as the most streamed artist globally",
+          "answer": "Bad Bunny",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Alexandra Cooper, self-dubbed \"Father Cooper\", signed a $60 million deal to stream this podcast exclusively on Spotify",
+          "answer": "Call Her Daddy",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "totouchanemu went viral on TikTok for filming himself with a drone dancing to this The Kid Laroi and Justin Bieber collab",
+          "answer": "STAY",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MODERN EXHIBITS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "At the National Museum of Mathematics, try riding a tricycle with wheels of this shape on Floor 0",
+          "answer": "square",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "If you missed this art collective's Borderless museum in Tokyo, they have an exhibit at SF's Asian Art Museum",
+          "answer": "Teamlab",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This artsy museum, known for its sprinkle pool and banana swings, is currently at NYC, Austin, and Singapore",
+          "answer": "Museum of Ice Cream",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This Washington, D.C. museum was founded by Milton Maltz, a Korean War code-breaker. You start off at the Briefing Center to receive your cover identity",
+          "answer": "International Spy Museum",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This Japanese artist is famous for the Infinity Room, where mirrors and neon balls produce an immersive experience",
+          "answer": "Yayoi Kusama",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "WORD CHILDREN",
+      "comment": "(Answer with a pair of words, one which contains another.)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "E.T. was this; to cause someone to feel isolated",
+          "answer": "alien, alienate",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A market stand; to prevent by taking action ahead of time",
+          "answer": "stall, forestall",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "A male sheep; a small baking dish",
+          "answer": "ram, ramekin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "A sweet, dark fleshy fruit; a model to be destroyed in protest",
+          "answer": "fig, effigy",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "An expense; a Christian holiday celebrated on the 7th Sunday from Easter Sunday",
+          "answer": "cost, Pentecost",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HISTORICAL DISCOURSE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "It is believed that he said in his Farewell Sermon, \"Today I have perfected for you your religion\"",
+          "answer": "Muhammad",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Among his three autobiographies is \"The Narrative of the Life\" of himself, \"an American Slave\"",
+          "answer": "Frederick Douglass",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "She discussed lynching in her pamphlet \"Southern Horrors: Lynch Law in all its Phases\"",
+          "answer": "Ida B. Wells",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Mario Savio was a key member of this university's Free Speech Movement, where he exclaimed \"you've got to put your bodies upon the gears\"",
+          "answer": "UC Berkeley",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Her \"Ain't I a Woman?\" speech probably did not even contain that phrase. Instead, she said \"I am a woman's rights\"",
+          "answer": "Sojourner Truth",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "GAMESTOP",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Hailee Steinfeld voices Vi in this prequel TV show to League of Legends",
+          "answer": "Arcane",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Valorant phrase refers to the player with the most kills on the team or for a match",
+          "answer": "top frag",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "ConcernedApe actually built this game, where you take over your old grandfather's farm in the namesake location, to improve his programming skills",
+          "answer": "Stardew Valley",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This Fire Emblem character's special skill Aether helped him defeat the Black Knight",
+          "answer": "Ike",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Rustrot Viper is the top card in this game, appearing in 16.4% of decks online",
+          "answer": "Hearthstone",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TO THE MOON",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "The patriotic name of Armstrong and Aldrin's lunar module, which Armstrong said \"had wings\" and \"has landed\"",
+          "answer": "Eagle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The landing site of Apollo 11 was this sea, which sounds similar to a number-placing cooperative board game",
+          "answer": "Sea of Tranquility",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The name of the rocket that actually sent Apollo 11 to the moon",
+          "answer": "Saturn (Saturn V)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "The CAPCOM, short for this, is an astronaut who is the only person that communicates directly with the flight crew",
+          "answer": "capsule communicator",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This third member of Apollo 11 had to endure periods of no radio contact at the back side of the moon",
+          "answer": "Michael Collins",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "DESSERT ETYMOLOGY",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "Savory or sweet, this dish's name is the past participle of the French for \"to blow\" or \"to puff\"",
+        "answer": "soufflé",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
