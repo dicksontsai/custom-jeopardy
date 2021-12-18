@@ -12,7 +12,7 @@
         },
         {
           "value": 400,
-          "text": "His hit show \"Worth It\" started off by comparing sushi at different price points",
+          "text": "His hit show \"Worth It\" at Buzzfeed compares a certain food at different price points",
           "answer": "Steven Lim",
           "isDailyDouble": false
         },
@@ -42,7 +42,7 @@
       "clues": [
         {
           "value": 200,
-          "text": "This mouthwash became a huge commercial success after renaming bad breath \"chronic halitosis\" in 1920",
+          "text": "This mouthwash became a huge commercial success after renaming bad breath as \"chronic halitosis\" in 1920",
           "answer": "Listerine",
           "isDailyDouble": false
         },
@@ -210,7 +210,7 @@
         },
         {
           "value": 1000,
-          "text": "This polling effect, named for British Conservatives who did not want to reveal their actual votes, seemed to apply to US Republicans as well",
+          "text": "This polling effect, named for British Conservatives who did not want to reveal their actual votes, seems to apply to US Republicans in 2016 as well",
           "answer": "Shy Tory factor",
           "isDailyDouble": false
         }
@@ -441,7 +441,7 @@
     "clues": [
       {
         "value": 0,
-        "text": "Savory or sweet, this dish's name is the past participle of the French for \"to blow\" or \"to puff\"",
+        "text": "Savory or sweet, this egg-based dish's name is the past participle of the French for \"to blow\" or \"to puff\"",
         "answer": "soufflé",
         "isDailyDouble": false
       }
