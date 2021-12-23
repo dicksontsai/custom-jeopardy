@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "PIANO COMPOSERS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "His Ninth Symphony was one of the first symphonies to incorporate human voice. Such Joy!",
+          "answer": "Ludwig van Beethoven",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "His \"Turkish March\" is just one movement of one of his 35 sonatas published before his death at 35",
+          "answer": "Wolfgang Amadeus Mozart",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The Polish government hosts a prestigious piano competition after him, with Bruce Xiaoyu Liu as the latest winner from 2021",
+          "answer": "Frederic Chopin",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This French composer's love life included Gaby, Therese (called off engagement), Lilly (married but cheated), and Emma (with child Chouchou)",
+          "answer": "Claude Debussy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "(Audio) This South Korean artist's 2001 piece \"River Flows In You\" heard here has inspired many piano students",
+          "answer": "Yiruma",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "MATHEMATICAL TERMS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "A word from the Latin for \"not meeting\". You see vertical and horizontal ones when plotting 1/x",
+          "answer": "asymptote",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The derivative of a function at a particular point is equal to the slope of this line",
+          "answer": "tangent",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "From a square matrix [[a b], [c d]], ad - bc gives you this value",
+          "answer": "determinant",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The branch of mathematics dealing with combinations of objects",
+          "answer": "combinatorics",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Positives real numbers have infinite values, so it has no minimum. Instead, for positive real numbers, 0 is an example of this.",
+          "answer": "infimum",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "HORROR FILMS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "In this movie, Su-an sings \"Aloha 'Oe\" at the end of the \"train\" line to prove that she survived",
+          "answer": "Train to Busan",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This 2020 spin-off of X-Men features a group of five \"mutant\" teenagers",
+          "answer": "The New Mutants",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "This 2020 Netflix film features a South Sudanese escapes to the UK only to encounter an apeth (\"night witch\")",
+          "answer": "His House",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In this sequel to a 1992 film, baby Anthony has now grown up and develops an obsession for the title character",
+          "answer": "Candyman",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "In this remake of a Japanese movie, anyone who watches a cursed videotape will die in 7 days, unless they show someone else a copy",
+          "answer": "The Ring",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CRUISE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Cruise ships love making a stop at Monaco so passengers can visit this historic casino",
+          "answer": "Monte Carlo Casino",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Early in the COVID-19 pandemic, passangers of this cruise ship parked at Yokohama were barred from leaving the ship for weeks",
+          "answer": "Diamond Princess",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The ships in this company's fleet all end with \"on the Seas\", such as Radiance of the Seas",
+          "answer": "Royal Caribbean",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Celine Dion's \"My Heart Will Go On\" was reportedly playing when this Italian cruise ship first struck a rock and capsized in 2012, causing 32 deaths",
+          "answer": "Costa Concordia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Scuba diving is a popular activity of this island off the Yucatan Peninsula, which faces Playa del Carmen on the mainland",
+          "answer": "Cozumel",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "\"WAY\"MO",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This type of scene is usually a quick interruption of another scene",
+          "answer": "cutaway",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Golfers want their drives to reach this area where the grass is cut short, not the rough",
+          "answer": "fairway",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The \"Bay\" district of Hong Kong east of Victoria Harbor and Wan Chai, where the famous skyline is",
+          "answer": "Causeway Bay",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This truck ramp is usually in mountainous areas, where truck brakes can overheat and fail",
+          "answer": "runaway",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The small bridge for getting on and off a ship, connecting it to land",
+          "answer": "gangway",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "AUTONOMOUS VEHICLES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "According to the Society of Automotive Engineers, this level of driving automation requires no human intervention at all. Steering wheel optional.",
+          "answer": "level 5",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "This company's car was responsible for the first self-driving pedestrian death in the US, at a 2017 accident in Tempe, Arizona",
+          "answer": "Uber",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Self driving cars typically use this type of sensor instead of radar to detect objects with greater 3D resolution",
+          "answer": "lidar",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This startup focuses on vehicles that carry goods, not humans. It launched its first vehicle, R1, in 2018",
+          "answer": "Nuro",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "The name of this robotics problem, which involves updating both a map of your environment and your location within it",
+          "answer": "Simultaneous Localization and Mapping (SLAM)",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "HAIR CARE",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Nizoral is a prescription type of this product that reduces flakiness by treating fungal infections",
+          "answer": "dandruff shampoo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This company used its vacuuming expertise to build the Airwrap hair styler, which curls hair without heat",
+          "answer": "Dyson",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This \"colorful\" product is used to keep your hair from looking too brassy",
+          "answer": "purple shampoo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This eyebrow hair removal technique, said to be more precise than waxing, removes multiple unwanted hairs in a line",
+          "answer": "threading",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Stylists hand-paint highlights using this technique, French for \"sweeping\"",
+          "answer": "balayage",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CELEBRITY BOGO",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Wonder Woman; Miss Israel 2004",
+          "answer": "Gal Gadot",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Star in \"The Fault in Our Stars\"; Aaron Rodger's fiancée",
+          "answer": "Shailene Woodley",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "HBO series host; name for the City of Danbury's Sewer Treatment Plant",
+          "answer": "John Oliver",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Shark Tank investor; NBA team owner",
+          "answer": "Mark Cuban",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Millie B lip-syncing TikTok streamer; Navy veteran",
+          "answer": "Bella Poarch",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "EDIBLE MUSHROOMS",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "One way to cultivate this mushroom is to plant hazel trees with its mycelium, then harvest after 4-10 years. No wonder it's so expensive",
+          "answer": "truffle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This large-cap mushroom is actually the same as white mushrooms or cremini mushrooms, just older",
+          "answer": "portobello, portabella, portobella",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "(Picture) This mushroom, Japanese for \"dancing mushroom\" can grow to more than 100 pounds",
+          "answer": "maitake, hen-of-the-woods, ram's head, sheep's head",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "(Picture) This mushroom, used in gourmet cooking, has a flavor similar to lobster",
+          "answer": "lion's mane, mountain-priest, bearded tooth",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Mix this fungus with dried red dates, goji berries, and pears to get a Chinese dessert soup",
+          "answer": "snow fungus, snow ear, silver ear, white jelly",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CHRISTMAS MUSIC",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Written in 1994, this upbeat Mariah Carey song is still very popular today",
+          "answer": "All I Want for Christmas Is You",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This derivative of a Christmas classic starts with an electric guitar playing a few of the classic's notes",
+          "answer": "Jingle Bell Rock",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This Canadian singer's 2011 album \"Christmas\" is one of the best-selling albums of the 21st century",
+          "answer": "Michael Bublé",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This Feliz Navidad singer recorded his song while feeling homesick at Christmas",
+          "answer": "José Feliciano",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This Bing Crosby song, which asks a lot of questions, was meant to be a plea for peace during the Cuban Missile Crisis",
+          "answer": "Do You Hear What I Hear?",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "DECORATIVE PHRASES",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This word for a wreath of flowers and leaves is also the current US Attorney General's surname",
+          "answer": "garland",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "To make a story more interesting by adding extra details, often exaggerated ones",
+          "answer": "embellish",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Two loud instruments combine into this phrase describing additional, nonessential features",
+          "answer": "bells and whistles",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This word refers to the accompaniments of a meal, such as a turkey \"with all the\" _____",
+          "answer": "trimmings",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "A strip of pleated fabric for decoration. When plural following \"no\", it means nothing \"f\"ancy",
+          "answer": "frill (no-frills)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "GIVING SEASON",
+      "comment": "(Highlighting some notable non-profits)",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This org, which started from one man's Youtube videos, aims to \"provide a free, world-class education for anyone, anywhere\"",
+          "answer": "Khan Academy",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "You can find this org's iconic red kettle at a local grocery store, or a huge one at Cowboys Stadium",
+          "answer": "Salvation Army",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1200,
+          "text": "Second Harvest of Silicon Valley is a member of this nationwide network of food banks",
+          "answer": "Feeding America",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This org, with a numeric name, matches Black and Latino college CS students with tech internships through its Fellows Program",
+          "answer": "Code2040",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This org, headquartered in San Francisco, has the tagline \"Loans that change lives\"",
+          "answer": "Kiva",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "SOUTH AMERICA",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "This country's name comes from the \"silver mountains legend\", which inspired many European expeditions",
+        "answer": "Argentina",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
