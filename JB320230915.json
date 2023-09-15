@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "Sports",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Remember 1969, when these New Yorkers became the first expansion team to win a World Series?",
+          "answer": "The Mets",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The sport played by Hilary Swank in Million Dollar Baby",
+          "answer": "Boxing",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Last name of the 2021 NBA Rookie of the Year LaMelo; brother Lonzo was named to a 2018 All-Rookie Team",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Formerly the all-time leading goal scorer in women's soccer, she retired as a player in 2004",
+          "answer": "Mia Hamm",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "This championship team in 1971 had Oscar Robertson & Kareem Abdul-Jabbar",
+          "answer": "the Milwaukee Bucks",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TV",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This recent TV show had an episode titled 'Chapter 13: The Jedi'",
+          "answer": "The Mandalorian",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "The channel on which No Demo Reno and Flipping 101 are found",
+          "answer": "HGTV",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Aubrey Plaza, Michael Imperioli & Jennifer Coolidge as Tanya all checked in for season 2 of this limited series; one did not check out",
+          "answer": "",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "From 2004 to 2012 Hugh Laurie played this crusty but skillful title M.D.",
+          "answer": "House",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Gabrielle, a bubbly bard, is the friend of this title tv character warrior princess",
+          "answer": "Xena",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "The first of the California Missions was built by 18th century padres in what is today this big Southern California city",
+          "answer": "San Diego",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Open a bottle to toast this second city of Ireland, with a name meaning 'Marsh'",
+          "answer": "Cork",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Camelback Mountain & the Desert Botanical Garden are found in this state capital",
+          "answer": "Phoenix",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Residents of this University of Oregon city are probably happy it didn't stick with Skinner's Mudhole",
+          "answer": "Eugene",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Illinois has a state microbe to honor Peoria's 1940s role in first mass-producing this antibiotic",
+          "answer": "penicillin",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Words",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Aesop knows it's a short narrative often making an edifying point",
+          "answer": "fable",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In the military, orders go down this 'chain'; requests go up",
+          "answer": "the chain of command",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Meaning nullify, this V is often done to checks",
+          "answer": "Void",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Take it E-Z! Oui, oui! The Z is silent in this type of liaison",
+          "answer": "rendezvous",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1000,
+          "text": "Take a self-e, this means obvious & easy to understand",
+          "answer": "self-explanatory",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "The last name of cousins Amy & Chuck, famous in different fields",
+          "answer": "Schumer",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "An uprising of industrial workers, the Poznan riots of 1956 brought Wladyslaw Gomulka back to power in this country",
+          "answer": "Poland",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Gabriel Iglesias voiced this fastest mouse in all of Mexico in Space Jame: A New Legacy",
+          "answer": "Speedy Gonzalez",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In this Shakespeare play Puck has some handy juice that makes a sleeper fall in love with the next person he sees",
+          "answer": "A Midsummer Night's Dream",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Atomic number 27, its essential to smartphone batteries",
+          "answer": "Cobalt",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "comment": "",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This company released the Xbox video game console in 2001",
+          "answer": "Microsoft",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "In 1964 the Sanford Ink Company cut loose & introduced these permanent markers to the world",
+          "answer": "Sharpie",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "The Michael J. Fox Foundation works to improve knowledge about the lived experience of this disease",
+          "answer": "Parkinsons",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A cut above, in 1930 Jacob Schick obtained a patent for an electric this",
+          "answer": "razor",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Though this ex-mayor donated $1.7 billion to charity, he still had $94.5 billion left and was No. 7 on Forbes' 2023 Billionaires list",
+          "answer": "Bloomberg",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "Music",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Don't Lie, will.i.am, apl.de.ap, Taboo & Fergie totally hip-hopped through the 2000s as members of this band",
+          "answer": "The Black Eyed Peas",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In January 2000 Kenny G blew into the Top 10 with a version of this New Year's favorite",
+          "answer": "Auld Lang Syne",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This daughter of Judy Garland made her Broadway debut in 1965 in Kander & Ebb's 1st Broadway musical, Flora, the Red Menace",
+          "answer": "Liza Minelli",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "In We Will Rock YOu, this group did not sing 'you got mud on your face, you big disgrace, kicking your cat all over the place'",
+          "answer": "Queen",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Straight Outta Lynwood & Alapalooza are 2 of his 10 RIAA-certified gold albums",
+          "answer": "Weird Al Yankovic",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Animals",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Orb weaver spiders have 5 spinnerets for extruding this substance used to make webs",
+          "answer": "silk",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "There's a mollusk in this phrase meaning to become suddenly silent",
+          "answer": "clam up",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Of the carp family, this animal is native to China, commonly kept in ponds, cold water tanks, or glass globes",
+          "answer": "Goldfish",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1600,
+          "text": "Shark skeletons are made of not bone but of this more flexible substance",
+          "answer": "cartilage",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "New Mexico chose the tarantula hawk, a type of this stinging insect that preys on tarantulas",
+          "answer": "wasp",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Women",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "She was I, Tonya & Elizabeth I in Mary Queen of Scots",
+          "answer": "Margot Robbie",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "In 1995 Eileen Collins became the first woman to pilot one of these & in 1999 the first to command a mission aboard one",
+          "answer": "Space Shuttle",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Kate McKinnon told the New York Times Magazine that this leader, 'to me, is a very emotional German'",
+          "answer": "Angela Merkel",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This classy dame was nominated for 12 acting Emmys for Murder, She Wrote but never won; she did nab an honorary Oscar & some Tonys",
+          "answer": "Angela Lansbury",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Her road to the EGOT began with winning an Oscar as Anita in West Side Story",
+          "answer": "Rita Moreno",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Books",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Christina Henry's Looking Glass is the last book in a chilling trilogy about a woman with this 5-letter name",
+          "answer": "Alice",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "A novel, writing the clue for us: 'This is a story of how a Baggins had an adventure'",
+          "answer": "The Hobbit",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Though my memory is Fogg-y, that guy may have a serious gambling problem; far to travel & under 3 months to do it...go!",
+          "answer": "Around the World in Eighty Days",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This enduring title character was introduced in an 1881 magazine called Giornale per i bambini",
+          "answer": "Pinocchio",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This book of the Old Testament introduces the 10 plagues & the 10 commandments",
+          "answer": "Exodus",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Romaine lettuce & anchovies are essential to the classic recipe for this salad",
+          "answer": "Caesar",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "The official state dessert of Massachusetts, it's actually a cake, despite its name",
+          "answer": "Boston cream pie",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This name for a pizza turnover comes from the Italian for 'pant leg'",
+          "answer": "calzone",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Aloha, the Ben and Jerry's flavor named for this nut, say Ben & Jerry, adding that it got sent off the aisle",
+          "answer": "Macadamia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Americans think of this dish as a stew, but the authentic Budapest version is more of a soup",
+          "answer": "goulash",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "Art",
+      "comment": "",
+      "clues": [
+        {
+          "value": 400,
+          "text": "Completed in 1888, his oil-on-canvas 'Self Portrait as a Painter' shows him with at least one of his ears",
+          "answer": "van Gogh",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Pop went the art - for a big pop - when Eight Elvises by this artist went for $100 million in 2008",
+          "answer": "Andy Warhol",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "The Met's Cloisters branch had a recreated medieval cloister; the garden was a symbol of this place monks hoped to enter",
+          "answer": "paradise",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "A patron himself, Toulouse-Lautrec often painted this bawdy establishment, red windmill in French",
+          "answer": "Moulin Rouge",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "Psychoanalysts used drawings by this painter in his own therapy sessions from 1939 to 1941",
+          "answer": "Jackson Pollock",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "Chemical Names",
+    "comment": "",
+    "clues": [
+      {
+        "value": 0,
+        "text": "The name of this pungent gaseous compound is ultimately derived from the top god of the ancient Egyptians",
+        "answer": "ammonia",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
