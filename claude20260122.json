@@ -1,0 +1,450 @@
+{
+  "single": [
+    {
+      "name": "BEFORE & AFTER",
+      "comment": "Classic Jeopardy wordplay - two phrases share a common word",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Python programming language & Monty Python comedy troupe both reference this large snake",
+          "answer": "Python",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Social media giant's 'Like' button & Facebook's original name for college students",
+          "answer": "Facebook",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Apple's virtual assistant & Norse goddess associated with fate",
+          "answer": "Siri",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Amazon's cloud computing service & Amazon's original business model",
+          "answer": "Web Services (AWS & Web-based Services)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Tesla's electric car & Nikola Tesla's invention for wireless power",
+          "answer": "Tesla Coil",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ELEMENTS BY SYMBOL",
+      "comment": "Identify the element from its periodic table symbol",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Au",
+          "answer": "Gold",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Fe",
+          "answer": "Iron",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Hg",
+          "answer": "Mercury",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "W",
+          "answer": "Tungsten (accept Wolfram)",
+          "isDailyDouble": true
+        },
+        {
+          "value": 1000,
+          "text": "Sb",
+          "answer": "Antimony",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "TECH COMPANIES' FIRST PRODUCTS",
+      "comment": "What did these tech giants originally sell or create?",
+      "clues": [
+        {
+          "value": 200,
+          "text": "Before becoming a search giant, Google's founders called their search engine this name at Stanford",
+          "answer": "BackRub",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "Nintendo started in 1889 selling these traditional Japanese playing cards",
+          "answer": "Hanafuda cards",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "Before smartphones, this Finnish company was famous for making rubber boots and toilet paper",
+          "answer": "Nokia",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "YouTube's first uploaded video was titled 'Me at the' this place, uploaded by co-founder Jawed Karim",
+          "answer": "zoo (Me at the zoo)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "Twitter's original internal code name was this text-messaging term",
+          "answer": "twttr (accept Status)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "ETYMOLOGY: WORDS FROM LATIN",
+      "comment": "English words derived from Latin roots",
+      "clues": [
+        {
+          "value": 200,
+          "text": "This word for a portable computer comes from Latin 'lap' meaning 'the flat part between waist and knees when sitting'",
+          "answer": "laptop",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "From Latin 'computare' meaning 'to calculate', this device does exactly that",
+          "answer": "computer",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "From Latin 'data' meaning 'things given', we use this term for information processed by computers",
+          "answer": "data",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This word for a computer program fault comes from Latin 'algorithmus', itself from Persian mathematician Al-Khwarizmi",
+          "answer": "algorithm",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "From Latin 'binarius' meaning 'consisting of two', this number system uses only 0s and 1s",
+          "answer": "binary",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "OLYMPIC HOST CITIES",
+      "comment": "Identify the city that hosted the Summer Olympics",
+      "clues": [
+        {
+          "value": 200,
+          "text": "2024",
+          "answer": "Paris",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "2020 (held in 2021)",
+          "answer": "Tokyo",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "2016",
+          "answer": "Rio de Janeiro",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "2008",
+          "answer": "Beijing",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "1996",
+          "answer": "Atlanta",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "LITERARY OPENING LINES",
+      "comment": "Name the book from its famous first line",
+      "clues": [
+        {
+          "value": 200,
+          "text": "'It was the best of times, it was the worst of times'",
+          "answer": "A Tale of Two Cities",
+          "isDailyDouble": false
+        },
+        {
+          "value": 400,
+          "text": "'Call me Ishmael.'",
+          "answer": "Moby-Dick",
+          "isDailyDouble": false
+        },
+        {
+          "value": 600,
+          "text": "'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'",
+          "answer": "Pride and Prejudice",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "'In a hole in the ground there lived a hobbit.'",
+          "answer": "The Hobbit",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1000,
+          "text": "'The sky above the port was the color of television, tuned to a dead channel.'",
+          "answer": "Neuromancer",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "double": [
+    {
+      "name": "AI & MACHINE LEARNING",
+      "comment": "Questions about artificial intelligence concepts and history",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This 1950 paper by Alan Turing proposed a test for machine intelligence based on conversational ability",
+          "answer": "The Turing Test (accept Computing Machinery and Intelligence)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This type of neural network, abbreviated GAN, pits two networks against each other: a generator and discriminator",
+          "answer": "Generative Adversarial Network",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Google's AlphaGo famously defeated world champion Lee Sedol in 2016 at this ancient Chinese board game",
+          "answer": "Go (accept Weiqi or Baduk)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This machine learning technique uses labeled training data to learn a function mapping inputs to outputs",
+          "answer": "Supervised learning",
+          "isDailyDouble": true
+        },
+        {
+          "value": 2000,
+          "text": "The 'transformer' architecture introduced in the 2017 paper 'Attention Is All You Need' revolutionized this field of AI dealing with human language",
+          "answer": "Natural Language Processing (NLP)",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "MATH CONCEPTS",
+      "comment": "Mathematical concepts and theorems",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This sequence begins 0, 1, 1, 2, 3, 5, 8, 13, where each number is the sum of the previous two",
+          "answer": "Fibonacci sequence",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This Greek letter represents the ratio of a circle's circumference to its diameter, approximately 3.14159",
+          "answer": "Pi",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This theorem states that in a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides",
+          "answer": "Pythagorean theorem",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This branch of mathematics deals with rates of change and was independently developed by Newton and Leibniz",
+          "answer": "Calculus",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This 358-year-old conjecture was finally proved by Andrew Wiles in 1995, stating no three positive integers satisfy a^n + b^n = c^n for n>2",
+          "answer": "Fermat's Last Theorem",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "FAMOUS ALGORITHMS",
+      "comment": "Computer science algorithms and their creators",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This sorting algorithm repeatedly steps through a list, compares adjacent elements and swaps them if they're in wrong order",
+          "answer": "Bubble sort",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Larry Page and Sergey Brin developed this algorithm that ranks web pages based on incoming links, founding Google",
+          "answer": "PageRank",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This divide-and-conquer sorting algorithm invented by Tony Hoare has average time complexity O(n log n)",
+          "answer": "Quicksort",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Edsger Dijkstra developed this algorithm in 1956 to find the shortest path between nodes in a graph",
+          "answer": "Dijkstra's algorithm",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Rivest, Shamir, and Adleman created this public-key cryptosystem in 1977, using the difficulty of factoring large primes",
+          "answer": "RSA (algorithm/encryption)",
+          "isDailyDouble": true
+        }
+      ]
+    },
+    {
+      "name": "UNITS NAMED AFTER SCIENTISTS",
+      "comment": "Scientific units of measurement named after their discoverers",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This unit of electrical current is named after the French physicist who studied electromagnetism",
+          "answer": "Ampere (amp)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Named after an Italian physicist, this unit measures electric potential difference",
+          "answer": "Volt",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This unit of force in the metric system is named after the English scientist who formulated laws of motion",
+          "answer": "Newton",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This unit of energy is named after the English physicist who studied thermodynamics and electromagnetism",
+          "answer": "Joule",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Named after a German physicist, this unit measures frequency, equivalent to one cycle per second",
+          "answer": "Hertz",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "PROGRAMMING LANGUAGE ORIGINS",
+      "comment": "Etymology and naming of programming languages",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This language is named after a British comedy troupe, not a snake",
+          "answer": "Python",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "This language is named after a type of Indonesian coffee, and its logo is a steaming cup",
+          "answer": "Java",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "Created at Bell Labs, this language's name is just the letter between B and D",
+          "answer": "C",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "This functional language is named after mathematician Haskell Curry",
+          "answer": "Haskell",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "Brendan Eich created this language in 10 days in 1995; originally called Mocha, then LiveScript, before getting its current name",
+          "answer": "JavaScript",
+          "isDailyDouble": false
+        }
+      ]
+    },
+    {
+      "name": "CRYPTOGRAPHY & CODE-BREAKING",
+      "comment": "History of cryptography and famous ciphers",
+      "clues": [
+        {
+          "value": 400,
+          "text": "This simple substitution cipher shifts each letter by a fixed number of positions, named after a Roman emperor",
+          "answer": "Caesar cipher",
+          "isDailyDouble": false
+        },
+        {
+          "value": 800,
+          "text": "Alan Turing helped break this German encryption machine used in WWII at Bletchley Park",
+          "answer": "Enigma",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1200,
+          "text": "This World War I cipher device used rotating disks and was considered unbreakable; its name means 'purple' in Japanese",
+          "answer": "Purple (accept Murasaki)",
+          "isDailyDouble": false
+        },
+        {
+          "value": 1600,
+          "text": "Claude Shannon's 1949 paper 'Communication Theory of Secrecy Systems' established this as the only provably unbreakable cipher",
+          "answer": "One-time pad",
+          "isDailyDouble": false
+        },
+        {
+          "value": 2000,
+          "text": "This 1976 paper by Diffie and Hellman revolutionized cryptography by introducing this type of key exchange over insecure channels",
+          "answer": "Public-key cryptography (accept Diffie-Hellman key exchange)",
+          "isDailyDouble": false
+        }
+      ]
+    }
+  ],
+  "final": {
+    "name": "COMPUTER SCIENCE PIONEERS",
+    "comment": "A foundational figure in computing history",
+    "clues": [
+      {
+        "value": 0,
+        "text": "This British mathematician's 1936 paper 'On Computable Numbers' introduced the theoretical machine that became the foundation of modern computing",
+        "answer": "Alan Turing (the Turing machine)",
+        "isDailyDouble": false
+      }
+    ]
+  }
+}
