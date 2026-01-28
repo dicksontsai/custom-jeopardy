@@ -37,37 +37,37 @@
       ]
     },
     {
-      "name": "MATHEMATICAL TERMS",
+      "name": "INFAMOUS HEISTS",
       "comment": "",
       "clues": [
         {
           "value": 200,
-          "text": "A word from the Latin for \"not meeting\". You see vertical and horizontal ones when plotting 1/x",
-          "answer": "asymptote",
+          "text": "In 1911, an Italian handyman stole this Leonardo da Vinci masterpiece from the Louvre by hiding in a closet overnight and walking out with it under his coat",
+          "answer": "the Mona Lisa",
           "isDailyDouble": false
         },
         {
           "value": 400,
-          "text": "The derivative of a function at a particular point is equal to the slope of this line",
-          "answer": "tangent",
+          "text": "In 2003, thieves tunneled into an Antwerp vault and made off with over $100 million in gems from this district, the world's diamond capital",
+          "answer": "the Antwerp Diamond District",
           "isDailyDouble": false
         },
         {
           "value": 600,
-          "text": "From a square matrix [[a b], [c d]], ad - bc gives you this value",
-          "answer": "determinant",
+          "text": "In 1990, two men disguised as police officers entered this Boston museum and stole 13 works including a Vermeer and three Rembrandts; the $500 million case remains unsolved",
+          "answer": "the Isabella Stewart Gardner Museum",
           "isDailyDouble": false
         },
         {
           "value": 800,
-          "text": "The branch of mathematics dealing with combinations of objects",
-          "answer": "combinatorics",
+          "text": "In 1963, a gang led by Bruce Reynolds stopped a Royal Mail train in Buckinghamshire and stole 2.6 million pounds in what became known as this alliterative crime",
+          "answer": "the Great Train Robbery",
           "isDailyDouble": false
         },
         {
           "value": 1000,
-          "text": "Positives real numbers have infinite values, so it has no minimum. Instead, for positive real numbers, 0 is an example of this.",
-          "answer": "infimum",
+          "text": "In 2005, a group of Brazilian thieves spent three months digging a 256-foot tunnel from a rented storefront to reach the vault of this country's central bank in Fortaleza, stealing nearly $70 million",
+          "answer": "the Central Bank of Brazil (alt: Banco Central do Brasil)",
           "isDailyDouble": false
         }
       ]
